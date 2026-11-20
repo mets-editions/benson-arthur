@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Benson-Arthur-Export-02-PrefaceRev-Intro-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Preface</title>
+        <author>Benson, Larry D.</author>
+        <author>Foster, Edward E.</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Castleberry, Kristi J.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-12" to="2026-01">Audited documents prior to print/export</resp>
+          <resp from="2026-08" to="2026-08">Collected metadata</resp>
+          <resp from="2026-06" to="2026-06">Copyedited and proofread</resp>
+          <resp from="2026-06" to="2026-06">Entered corrections for digital edition</resp>
+          <resp from="2026-06" to="2026-06">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-11" to="2023-11">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Formatted for print edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2026-09" to="2026-11">Audited documents prior to print/export</resp>
+          <resp from="2026-10" to="2026-10">Collected metadata</resp>
+          <resp>Entered corrections for digital edition</resp>
+          <resp from="2026-11" to="2026-11">Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2026.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Benson, Larry D.</editor>
+            <editor>Foster, Edward E.</editor>
+            <title>King Arthur's Death: The Middle English Stanzaic Morte Arthur and Alliterative
+              Morte Arthure</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1994</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/benson-arthur/blob/main/benson-arthur-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edited by Larry Benson and published by Bobbs-Merrill in 1974</change>
+      <change>Revised by Edward Foster and published by METS in 1994</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025 and 2026</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Benson-Arthur-Export-02-PrefaceRev-Intro"/>
+      <div type="text">
+        <p style="heading" n="1">Preface to the Revised Edition</p>
+        <p style="bodyfirst" n="1">This volume differs substantially in editorial practice from
+          other volumes in the TEAMS Series, because it is a revision of Larry D. Benson’s <hi
+            rend="italic">King Arthur’s Death</hi> (Indianapolis: Bobbs-Merrill, 1974) in the
+          Library of Literature Series. Professor Benson goes further in regularization of spellings
+          and forms than is characteristic of TEAMS editions. I have retained most features of his
+          system, especially since the texts he established are highly readable and authentic in all
+          material respects. The one oddity, which Benson notes, is that the texts may appear more
+          “Midlands” than the manuscripts are, but the manuscript history is such that the matter of
+          dialectal variation is problematic anyway.</p>
+        <p style="body" n="1">Benson’s edition incorporates many corrections from earlier editors
+          without comment. I have followed his example since to be more detailed in attribution
+          would be more of a distraction than an aid to readers. Thus, many obvious errors in the
+          manuscripts are silently corrected. The “alliterative scribe,” Robert Thornton, was
+          particularly given to dittography, the accidental repetition of a letter or letters. The
+          manuscript of the stanzaic poem, though freer of obvious errors, has many corrections
+          within it which Benson and I have both accepted without tedious notation.</p>
+        <p style="body" n="2">In the stanzaic poem, Benson has made nine changes from Bruce’s
+          edition (EETS e.s. 88), which is the basis for his text; I have accepted all of them and
+          have so indicated in notes. The situation with the alliterative poem is more complex. Here
+          Benson made many emendations based both on earlier commentators and on his own judgment.
+          Where I have accepted Benson’s changes, I have indicated my reliance on Benson, his
+          sources, and subsequent editors such as Valerie Krishna (1976) and Mary Hamel (1984).
+          Where I have disagreed, I have cited the sources of my readings.</p>
+        <p style="body" n="3">I have also rearranged marginal glosses and foot-glosses to fit the
+          TEAMS format and I have added and modified glossarial material as I saw fit. For example,
+          Benson has generally glossed unfamiliar but frequently used words for their first five
+          appearances; I have continued to gloss words when I thought it useful for the reader,
+          especially in the case of words like <hi rend="italic">bydene</hi> and <hi rend="italic"
+            >dight</hi>, which have many shadings of meaning. In general, I have glossed more
+          liberally to avoid, where possible, the necessity of distracting reliance on the Glossary.
+          Suffice it to say that, despite my noble explanatory intentions, any confusions introduced
+          are my responsibility.</p>
+        <p style="body" n="4">Most of Benson’s textual and explanatory notes have been reproduced
+          largely verbatim. Many new or radically revised notes have also been added by myself and
+          the editorial board at the University of Rochester, often with reference to the excellent
+          notes in the recent editions by Krishna (K) and Hamel (H). Finally, I have updated the
+          Bibliography and simplified the Glossary, mostly by removing etymological information.</p>
+        <p style="body" n="5">Benson’s Introduction has been retained and his section on
+          Versification and Style has been incorporated into the Introduction. More recent
+          commentaries, cited in the revised Bibliography, have not impaired the appropriateness of
+          Benson’s observations. I have made only minor editorial changes to the Preface and
+          Introduction, and brought the bibliographical references up to date. I have omitted
+          Benson’s extensive sections on Pronunciation and Grammar and on Vocabulary. In general, I
+          have tried to preserve the integrity of Benson’s edition while including some more recent
+          editorial judgments and exercising my own discretion about what might or might not be
+          helpful to the reader. That is, after all, what is most important: to make these works,
+          two of the finest poems of the fourteenth century, available and accessible to readers
+          without attenuating their linguistic integrity.</p>
+        <p style="body" n="6">I would like to thank Professor Benson for his willingness to have his
+          edition tampered with, and for his permission to reprint in this revision some portions of
+          the original volume. I would like to thank Matt Melendy and Greg Matthews, students of
+          mine who patiently explained to me what was hard and what was not in these poems. I would
+          also like to thank Cynthia Schelmerdine (Classicist), Walter Broman (Medievalist), and Jan
+          Foster (wife and smart person) for their vision, literally and figuratively, in
+          discovering errors and insufficiencies. And, finally, thanks to Alan Lupack, Russell Peck,
+          Karen Saupe, and Tom Seiler, of the TEAMS project, for their assistance with the
+          formatting, glossing, and annotating of this edition.</p>
+        <p style="bodysubsection" n="1">The Consortium for the Teaching of the Middle Ages is
+          grateful to the National Endowment for the Humanities for its continued support of the
+          Middle English Texts Series.</p>
+        <p style="bodysubsection" n="2">Edward E. Foster</p>
+        <p style="bodyfirst" n="2">Whitman College</p>
+        <p style="heading" n="2">Preface to the Original Edition</p>
+        <p style="bodyfirst" n="3">The texts in this volume have been edited for readers who have
+          had little or no training in Middle English. The two romances in this volume have never
+          been easily accessible to students who are not specializing in Middle English. The <hi
+            rend="italic">Stanzaic Morte Arthur</hi>, linguistically a relatively easy work, is
+          available only in a diplomatic scholarly edition that presents formidable difficulties to
+          the beginning student or casual reader. The <hi rend="italic">Alliterative Morte
+            Arthure</hi>, a more difficult poem, is available only in scholarly editions that make
+          so difficult a work almost impossible reading for all but advanced students. Yet these two
+          romances are among the finest of our English medieval narrative poems; they deserve a
+          wider readership simply for what they are, first-rate works of art. They are furthermore
+          essential reading for the student of Malory, for the student of the Arthurian legend in
+          England, and even for the reader who only wants a better understanding of medieval English
+          narrative in the later Middle Ages.</p>
+        <p style="body" n="7">The variety of Middle English in which these poems were written is not
+          as difficult as may at first appear, and most of the initial difficulty is due to the
+          reader’s lack of familiarity with a relatively small number of words and a few syntactic
+          peculiarities. The texts in this volume have been edited so that a beginning student can
+          read them independently. The marginal glosses are designed to help with vocabulary, and
+          the notes should clear up any syntactic difficulties. The student who reads these works
+          with care should learn a good portion of the basic vocabulary necessary for further
+          reading in Middle English texts. Consequently, when used as a first text in classes in
+          Middle English, these poems can provide the student with an extensive body of Middle
+          English, valuable in itself and intelligible even before beginning formal study of the
+          language.</p>
+        <p style="body" n="8">The texts of this volume have not been “simplified” in any significant
+          way. The lagnuage itself remains about the same as it is in the manuscripts. However, the
+          spelling has been regularized (in somewhat the same way editors of Chaucer have
+          regularized his spelling), and this makes them much easier to read. Middle English itself
+          is not very difficult, but Middle English spelling is nearly impossible, especially in
+          texts such as these, which are both preserved in unique manuscripts well removed in time
+          and place from their original authors. The <hi rend="italic">Stanzaic Morte Arthur</hi>
+          survives in a manuscript (British Museum MS Harley 2252) produced in the late fifteenth
+          century by two different scribes who wrote in two different dialects, neither of which was
+          that of the author, who apparently composed his work about a century before. The <hi
+            rend="italic">Alltierative Morte Arthure</hi> survives in a manuscript (Lincoln
+          Cathedral MS Thornton A 1, 17, now called Lincoln Cathedral MS 91) that was written about
+          1440 by Robert Thornton; his copy was evidently a West Midlands text, though there is
+          reason to believe our poem was written in the East Midlands.</p>
+        <p style="body" n="9">It is no wonder that the language of the manuscripts is confused; each
+          shows traces of at least two different dialects along with all the other difficulties that
+          necessarily creep into vernacular texts in the process of transmission (the Winchester
+          Manuscript of Malory’s work, for example, shows that a number of lines were missing from
+          Thornton’s exemplar). Thus far, both poems have been edited only in more or less
+          diplomatic editions that faithfully reproduce the confusion of the scribes, though
+          Krishna, conservatively, and Hamel, more liberally, note the confusions and obvious
+          errors. Such texts are essential for the advanced student, who must know and study the
+          manuscript’s representation of the language (and the editions in this volume are not
+          intended as substitutes for such texts). However, for the beginning reader, and often even
+          for the relatively advanced student, a faithful representation of the manuscript forms is
+          frequently a misrepresentation of the language itself. Every teacher of Middle English is
+          painfully aware of what happens when students are necessarily taught to pronounce what
+          they see on the page and then inevitably do pronounce what they see, thus producing a
+          strange and wildly varying language that has only a remote connection with Middle English.
+          Long study and much practice are necessary before a student can easily distinguish between
+          significant and insignificant spelling variations or can tell when a later scribe has
+          foisted a fifteenth-century sound change off on a fourteenth-century poet.</p>
+        <p style="body" n="10">In general, I have tried to use one spelling for each form, with the
+          spellings selected on the basis of their existence in the manuscripts, their ease of
+          recognition for a modern reader, and their faithfulness in representing the sound probably
+          used by, or at least understandable to, the author. In few cases have all three criteria
+          been met; where I have had to make a choice among the three, I have chosen ease in
+          recognition, preferring a small error in sound or a slight deviation from the form the
+          author may have used to a major difficulty in understanding. This has resulted in giving
+          both texts a slightly more Midlands cast than they may have originally had.</p>
+        <p style="body" n="11">I have regularized the plural pronoun forms in the <hi rend="italic"
+            >Stanzaic Morte Arthur</hi>, but beyond that I have not changed the grammatical forms
+          (retaining both the -<hi rend="italic">eth</hi> and -<hi rend="italic">es</hi> endings of
+          the third person present tense of the verbs), since many of these variations probably
+          represent competing forms rather than a confused dialect. I have chosen the spellings <hi
+            rend="italic">shall</hi> and <hi rend="italic">sholde</hi> rather than <hi rend="italic"
+            >sal</hi> and <hi rend="italic">suld</hi> (the more numerous forms in the <hi
+            rend="italic">Alliterative Morte Arthure</hi>); I have usually preferred <hi
+            rend="italic">o</hi> to <hi rend="italic">a</hi> in forms like <hi rend="italic"
+            >bold</hi>/<hi rend="italic">bald</hi>; I have used the modern spellings in most cases
+          of variation of short vowels before <hi rend="italic">r</hi>, such as <hi rend="italic"
+            >world</hi>/<hi rend="italic">werld</hi>, and in most cases of variation of short <hi
+            rend="italic">e</hi> and short <hi rend="italic">i</hi> and short <hi rend="italic"
+            >u</hi> and short <hi rend="italic">i</hi>, and I have used the more modern forms in
+          regularizing unstressed vowels (choosing <hi rend="italic">e</hi> instead of <hi
+            rend="italic">i</hi> in inflectional endings and preferring <hi rend="italic">be</hi>-
+          to <hi rend="italic">bi</hi>- in forms like <hi rend="italic">before</hi>/<hi
+            rend="italic">bifore</hi>. I have generally used -<hi rend="italic">dg</hi>, -<hi
+            rend="italic">tch</hi>, and <hi rend="italic">sh</hi>- instead of the manuscript’s -<hi
+            rend="italic">gg</hi>-, -<hi rend="italic">ch</hi>, and <hi rend="italic">sch</hi>-. The
+          one case in which I have usually adopted a more archaic form is short French <hi
+            rend="italic">a</hi> plus an <hi rend="italic">n</hi>, adopting the more common Modern
+          English spelling of words like <hi rend="italic">giaunt</hi> instead of the modern
+          spelling <hi rend="italic">giant</hi>. I have not aimed at complete consistency, since
+          phonemes as well as grammatical forms were probably in competition. So were words; as the
+          alliterations show, <hi rend="italic">Gawain</hi> and <hi rend="italic">Wawain</hi> were
+          both acceptable forms of that knight’s name, and so both forms have been retained. The
+          idea is to produce a reasonably regular but not thoroughly anesthetized text.</p>
+        <p style="body" n="12">Although the regularized spellings are intended as a guide to the
+          pronunciation of these texts, I have not tried to use a phonemic alphabet of any sort, and
+          in these texts, as in Modern English, the same sound may be represented in a variety of
+          ways. I have retained five different spellings of /i/ and six different spellings of /e/.
+          This obviously creates some initial difficulties in learning the correct pronunciation, a
+          problem that would have been eliminated by a more purely phonemic alphabet, but I believe
+          that these initial difficulties are more than compensated for by the ease in recognition
+          this spelling allows and by the better preparation it provides for the student who intends
+          to move from these texts to unregularized editions.</p>
+        <p style="body" n="13">The occasional explanatory notes have been purposely kept to the
+          minimum necessary for understanding the text, and the introduction has been kept as brief
+          as possible. My hope is that the student will concentrate full attention on the texts
+          themselves and thereby be led to further study.</p>
+        <p style="body" n="14">The edition of the <hi rend="italic">Stanzaic Morte Arthur</hi> is
+          based mainly on Bruce’s text (see Bibliography for this and other editions mentioned
+          below), which was read against a microfilm of the manuscript. I have made a very few minor
+          emendations (indicated in the Textual Notes). The edition of the <hi rend="italic"
+            >Alliterative Morte Arthure</hi> is based mainly on Brock’s text, which was also read
+          against a microfilm of the manuscript. I have made a good many emendations (the most
+          important are listed in the Textual Notes), and aside from the regularizing, which in both
+          poems often involves new readings of the lines. The Textual Notes are very brief and,
+          except for the important textual changes that they record, I have not been able to include
+          a full discussion of the solutions I have adopted in the establishment and interpretation
+          of the text. I hope it will be understood that I have omitted this information not out of
+          any disrespect for the previous editors, including those whose work I have used to
+          establish the readings, but because the considerable editorial apparatus this would
+          require would have been out of place in an edition of this sort.</p>
+        <p style="body" n="15">Several conjectured lines have been added to the <hi rend="italic"
+            >Alliterative Morte Arthure</hi> and one to the stanzaic poem; they are indicated by
+          brackets and are not counted in the numbering of lines.</p>
+        <p style="body" n="16">I owe thanks to Gavin R. Benson, who worked hard on the mimeographed
+          trial texts on which this volume is based; to Cassandra Benson, who also helped on that
+          job; to Dr. Edward Tucker, who supplied helpful suggestions about the first of the trial
+          editions; to the members of my Middle English class at Arizona State University at Tempe
+          during the summer of 1970, who put up with the first trial edition; and to the members of
+          English 2100 at Harvard during the spring term of 1971, who supplied valuable suggestions
+          about the second. Fee Whitehall labored above and beyond the ordinary call of editorial
+          duty, and her sharp eye saved these texts from many more errors and inconsistencies than
+          they now contain.</p>
+        <p style="bodysubsection" n="3">L. D. B.</p>
+        <p style="bodyfirst" n="4"><hi rend="italic">Lexington, Mass.</hi></p>
+        <p style="bodyfirst" n="5"><hi rend="italic">1972</hi></p>
+      </div>
+    </body>
+  </text>
+</TEI>

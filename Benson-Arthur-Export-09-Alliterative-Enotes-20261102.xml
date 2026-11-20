@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Benson-Arthur-Export-09-Alliterative-Enotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Explanatory Notes to the Alliterative Morte Arthure</title>
+        <author>Benson, Larry D.</author>
+        <author>Foster, Edward E.</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Castleberry, Kristi J.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-12" to="2026-01">Audited documents prior to print/export</resp>
+          <resp from="2026-08" to="2026-08">Collected metadata</resp>
+          <resp from="2026-08" to="2026-08">Copyedited and proofread</resp>
+          <resp from="2026-08" to="2026-08">Entered corrections for digital edition</resp>
+          <resp from="2026-08" to="2026-08">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Espinosa, Juan</persName>
+          <resp from="2026-09" to="2026-09">Entered corrections for digital edition</resp>
+          <resp from="2026-09" to="2026-09">Formatted for XML export</resp>
+          <resp from="2026-09" to="2026-09">Ensured adherence to METS Style Guide</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-11" to="2023-11">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2026-09" to="2026-11">Audited documents prior to print/export</resp>
+          <resp from="2026-10" to="2026-10">Collected metadata</resp>
+          <resp>Entered corrections for digital edition</resp>
+          <resp from="2026-11" to="2026-11">Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2026.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Benson, Larry D.</editor>
+            <editor>Foster, Edward E.</editor>
+            <title>King Arthur's Death: The Middle English Stanzaic Morte Arthur and Alliterative
+              Morte Arthure</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1994</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/benson-arthur/blob/main/benson-arthur-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edited by Larry Benson and published by Bobbs-Merrill in 1974</change>
+      <change>Revised by Edward Foster and published by METS in 1994</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025 and 2026</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Benson-Arthur-Export-09-Alliterative-Enotes"/>
+      <div type="text">
+        <note type="enote" n="1">1<space rend="indent1"/><p><hi rend="italic">Himselven</hi>. On the
+            prominence of reflexive formulas in the poem (<hi rend="italic">himselven, him
+              likes</hi>, etc.) as indicators of the will and willfulness, see Peck, pp. 158
+          ff.</p></note>
+        <note type="enote" n="2">29<space rend="indent1"/><p><hi rend="italic">Uter</hi>. Uther
+            Pendragon, Arthur’s father.</p></note>
+        <note type="enote" n="3">32<space rend="indent1"/><p>Scotland and England were often at war
+            in the fourteenth century, hence <hi rend="italic">scathel</hi> (“harmful”)
+            Scotland.</p></note>
+        <note type="enote" n="4">47<space rend="indent1"/><p>I.e., the whole extent of
+          Denmark.</p></note>
+        <note type="enote" n="5">61<space rend="indent1"/><p><hi rend="italic">Caerlion</hi>. One of
+            Arthur’s principal cities where, according to the chronicles, he often spent Pentecost.
+            K suggests that the reference to the city’s “curious walles” may derive from Giraldus’
+            description of the city: “[Caerleon] was of undoubted antiquity, and handsomely built of
+            masonry, with courses of bricks, by the Romans. Many vestiges of its former splendour
+            may yet be seen; immense palaces . . . a tower of prodigious size, remarkable hot baths,
+            relics of temples, and theatres, all enclosed within fine walls, parts of which remain
+            standing. You will find on all sides, both within and without the circuit of the walls,
+            subterraneous buildings, aqueducts, underground passages; and what I think worthy of
+            notice, stoves contrived with wonderful art, to transmit the heat insensibly through
+            narrow tubes passing up the side walls” (p. 164).</p></note>
+        <note type="enote" n="6">64<space rend="indent1"/><p><hi rend="italic">Carlisle</hi>. Here,
+            Arthur’s new city, located on the Scottish border; another favorite site for Arthur’s
+            festivities, according to Froissant. The Middle English romance <hi rend="italic">Sir
+              Gawain and the Carl of Carlisle</hi> suggests the city’s foundation at a place where
+            courtesy turned monstrosity to civility.</p></note>
+        <note type="enote" n="7">66<space rend="indent1"/><p><hi rend="italic">douspeeres</hi>.
+            Originally Charlemagne’s twelve peers, but here simply “high noblemen.”</p></note>
+        <note type="enote" n="8">68<space rend="indent1"/><p>A <hi rend="italic">bannerette</hi> was
+            a senior knight entitled to bear his own banner; a <hi rend="italic">bacheler</hi>
+            ranked somewhat lower and was either a newly made knight or a young man about to be
+            knighted.</p></note>
+        <note type="enote" n="9">77<space rend="indent1"/><p><hi rend="italic">West Marches</hi>.
+            The territories bordering Wales.</p></note>
+        <note type="enote" n="10">79<space rend="indent1"/><p>The bread is the first course (since
+            the other food was heaped upon it), and the first course is the traditional time for the
+            arrival of a messenger. Compare <hi rend="italic">Sir Gawain and the Green Knight</hi>,
+            lines 116–132.</p></note>
+        <note type="enote" n="11">86<space rend="indent1"/><p><hi rend="italic">Lucius Iberius:</hi>
+            “The Emperor Lucius was apparently invented by Geoffrey of Monmouth [<hi rend="italic"
+              >History of the Kings of Britain</hi>], who calls him Lucius Tiberius. . . . The
+            attempt at a reconquest of Britain by the Romans in the sixth century also derives from
+            Geoffrey” (K, p. 165).</p></note>
+        <note type="enote" n="12">92<space rend="indent1"/><p><hi rend="italic">Lamass Day:</hi> a
+            harvest festival formerly celebrated on August 1.</p></note>
+        <note type="enote" n="13">95<space rend="indent1"/><p>Prime was “the first hour of the day,
+            beginning at six-o’clock throughout the year or at the varying times of sunrise” (<hi
+              rend="italic">OED</hi>).</p></note>
+        <note type="enote" n="14">105<space rend="indent1"/><p>The Romans held title to Britain on
+            the basis of Caesar’s conquest, as recorded in chronicles based ultimately on Book V of
+            Geoffrey of Monmouth’s <hi rend="italic">History of the Kings of
+          Britain</hi>.</p></note>
+        <note type="enote" n="15">108<space rend="indent1"/><p><hi rend="italic">route</hi>.
+            “Ambigious: either ‘snore’ (OE <hi rend="italic">hrutan</hi>), an expression of Lucius’s
+            angry contempt, or more neutrally ‘go, travel’ (OF <hi rend="italic">router</hi>), a
+            contrast rather than a parallel to <hi rend="italic">ryste</hi> (rest)” (H, p.
+          257).</p></note>
+        <note type="enote" n="16">168<space rend="indent1"/><p>Chambers with chimneys are heated
+            rooms, a luxury at this time. See note to line 61.</p></note>
+        <note type="enote" n="17">176ff.<space rend="indent1"/><p>The elaborate feast that follows
+            might actually have been served at a royal household of the late fourteenth century.
+            Menus for royal feasts are printed in <hi rend="italic">Two Fifteenth-Century Cooking
+              Books</hi>, ed. Austin, EETS o.s. 91 (London, 1888; reprinted 1964). See H’s extensive
+            notes on the dishes and feast practices of the later fourteenth century (pp.
+            259–63).</p></note>
+        <note type="enote" n="18">200<space rend="indent1"/><p><hi rend="italic">Crete</hi>. The
+            poet regularly identifies wines by their place of origin. The universality of Arthur’s
+            wine cellar is impressive.</p></note>
+        <note type="enote" n="19">213<space rend="indent1"/><p>The virtues (powers) of precious
+            stones were commonplace in the Middle Ages. See <hi rend="italic">English Medieval
+              Lapidaries</hi>, eds. Evans and Serjeantson, EETS o.s. 190 (London, 1932; reprinted
+            1960).</p></note>
+        <note type="enote" n="20">233<space rend="indent1"/><p><hi rend="italic">Waynor</hi> and <hi
+              rend="italic">Gaynor</hi> for Guinevere are used interchangeably as are <hi
+              rend="italic">Gawain</hi> and <hi rend="italic">Wawain</hi> for Gawain.</p></note>
+        <note type="enote" n="21">234<space rend="indent1"/><p><hi rend="italic">Sir
+            Owglitreth</hi>. Sir Owghtreth of Turry is evidently one of Arthur’s vassals. <hi
+              rend="italic">Turry</hi> perhaps is Turin, Italy. J. L. N. O’Loughlin, “The Middle
+            English Alliterative <hi rend="italic">Morte Arthure</hi>,”<hi rend="italic">Medium
+              Aevum</hi> 4 (1935), 159, suggests that he is one of Lucius’ ambassadors, who out of
+            courtesy is assigned with Gawain to accompany the Queen.</p></note>
+        <note type="enote" n="22">245<space rend="indent1"/><p><hi rend="italic">Giauntes Towr</hi>.
+            Since giants occupied Britain before the arrival of Brutus, this tower is, presumably, a
+            “prehistoric” edifice.</p></note>
+        <note type="enote" n="23">277<space rend="indent1"/><p><hi rend="italic">Belin and
+              Bremin</hi>. In Book III of Geoffrey’s <hi rend="italic">History</hi> we are told
+            that, long before Caesar came to Britain, Belinus and Brennius conquered and ravaged
+            Rome. This is, of course, not historical.</p></note>
+        <note type="enote" n="24"><space rend="indent1"/><p><hi rend="italic">Bawdewyne the
+              third</hi>. “Baldwin the Third is unknown; perhaps he was invented for the sake of
+            alliteration” (K, p. 169).</p></note>
+        <note type="enote" n="25">282<space rend="indent1"/><p>According to Geoffrey (Book V,
+            chapter 6) Constantine was the son of a Roman Senator and a British Princess, and he
+            succeeded to the kingship of Britain. Then he overthrew the Emperor Maxentius and became
+            Emperor. According to legend, his mother, Helen, discovered the True Cross. Arthur
+            claims kinship with Constantine because of his supposed British mother. Constantine
+            actually did proclaim himself Caesar while in York, but he was never king of Britain and
+            not of British descent.</p></note>
+        <note type="enote" n="26">288<space rend="indent1"/><p><hi rend="italic">King Aungers</hi>.
+            Robert W. Ackerman, <hi rend="italic">An Index of Arthurian Names in Middle English</hi>
+            (Stanford: Stanford University Press, 1952), p. 20, identifies King Aungers as Geoffrey
+            of Monmouth’s Auguselus, a king of Scotland, son of Bryadens, grandson of Igerne, and
+            brother of Lot and Urien. He was, like Lot, an enemy of Arthur who later became an
+            ally.</p></note>
+        <note type="enote" n="27">297<space rend="indent1"/><p>The <hi rend="italic">vernacle</hi>
+            (the relic of Veronica) is the handkerchief with which St. Veronica wiped the face of
+            Christ on His way to the Crucifixion. Miraculously, the image of His face was preserved
+            on the handkerchief, which still survives. The cult of Veronica was especially strong in
+            the fourteenth century. Pope John XXII granted an indulgence of ten thousand days for a
+            prayer to the Veronica, and its legend had an important part in the popular romances
+            about Titus and Vespasian.</p></note>
+        <note type="enote" n="28">304<space rend="indent1"/><p><hi rend="italic">Berne of Britain
+              the Little</hi>. King Hoel of Brittany.</p></note>
+        <note type="enote" n="29">320<space rend="indent1"/><p><hi rend="italic">The Welsh
+            king</hi>. Perhaps Sir Valiant (line 2064).</p></note>
+        <note type="enote" n="30">337<space rend="indent1"/><p><hi rend="italic">Sir Ewain fitz
+              Urien</hi>. Iwain son of Urien and Morgan le Fay.</p></note>
+        <note type="enote" n="31">352<space rend="indent1"/><p><hi rend="italic">Petersand</hi>
+            (Petrasanta, i.e., the Vatican); <hi rend="italic">Pis</hi> (Pisa); <hi rend="italic"
+              >Pount Tremble</hi> (Pontremoli).</p></note>
+        <note type="enote" n="32">368–70<space rend="indent1"/><p>“Lancelot, the great hero of the
+            Vulgate tradition, was unknown in the earlier chronicles. In introducing him as one of
+            the ‘lesse men’ among Arthur’s retainers, the poet gives his audience a clear signal:
+            this poem will <hi rend="italic">not</hi> be concerned with the issues and themes of
+            that tradition” (H, p. 268).</p></note>
+        <note type="enote" n="33">375<space rend="indent1"/><p><hi rend="italic">Genivers</hi>
+            (Genoese): “The notorious giants from Genoa in Lucius’ army may derive from the Genoan
+            mercenaries who fought with France against Edward III at Crecy and other important
+            battles” (K, p. 170).</p></note>
+        <note type="enote" n="34">391<space rend="indent1"/><p><hi rend="italic">renkes</hi>. Not
+              <hi rend="italic">rankes</hi> (men) but <hi rend="italic">renkes</hi> (paths) from OF
+              <hi rend="italic">renc</hi>.</p></note>
+        <note type="enote" n="35">415<space rend="indent1"/><p><hi rend="italic">Epiphany</hi>. From
+            the Greek for “appearance” or “manifestation,” it is the feast on January 6,
+            commemorating the coming of the Magi to see the child Jesus and symbolizing the
+            “manifestation” of the newborn savior to the whole world (<hi rend="italic"
+            >OED</hi>).</p></note>
+        <note type="enote" n="36">450<space rend="indent1"/><p><hi rend="italic">Watling
+            Street</hi>. The old Roman road leading from the southern coast by way of London to
+            Cardigan in Wales.</p></note>
+        <note type="enote" n="37">482<space rend="indent1"/><p><hi rend="italic">Catrik</hi>. A town
+            in Yorkshire, identified with the Roman cataractonium.</p></note>
+        <note type="enote" n="38">490<space rend="indent1"/><p>Sandwich is the port from which the
+            Romans will take ship. One of the “cinque ports,” Sandwich is the site of the Church of
+            St. Peter where curfew, now ceremonial, was rung.</p></note>
+        <note type="enote" n="39">497<space rend="indent1"/><p><hi rend="italic">Mount Goddard</hi>.
+            One of the principal passes through the French Alps into Italy.</p></note>
+        <note type="enote" n="40">572<space rend="indent1"/><p><hi rend="italic">Ambyganye</hi> and
+              <hi rend="italic">Orcage</hi> are apparently in the East. H emends to <hi
+              rend="italic">Arcage,</hi> the OF spelling of Arcadia. <hi rend="italic"
+              >Ambyganye</hi>, she suggests, could be Albania.</p></note>
+        <note type="enote" n="41">575<space rend="indent1"/><p><hi rend="italic">Irritane</hi>
+            (Hyrcania) and <hi rend="italic">Elamet</hi> (Elam) are not islands but countries in
+            Asia.</p></note>
+        <note type="enote" n="42">588<space rend="indent1"/><p>Prester John was thought to be a
+            Christian ruler living somewhere in the Orient. In <hi rend="italic">The Travels of Sir
+              John Mandeville</hi> (a famous fourteenth century book of fictitious travels,
+            presented as a true account), Prester John is said to be the Emperor of India, allied by
+            marriage to the great Khan of China. The legend was probably based on reports of
+            Christian communities which actually did exist in the East. Pamphile is a region of Asia
+            Minor.</p></note>
+        <note type="enote" n="43">604–05<space rend="indent1"/><p><hi rend="italic">Prussland</hi>
+            (Prussia) and <hi rend="italic">Lettow</hi> (Lithuania) were still pagan in the
+            fourteenth century.</p></note>
+        <note type="enote" n="44">625<space rend="indent1"/><p>The octave of St. Hillary’s day would
+            be a week after January 24.</p></note>
+        <note type="enote" n="45">628–29<space rend="indent1"/><p><hi rend="italic">Constantine</hi>
+            (the Peninsula of Cotentin) and <hi rend="italic">Barflete</hi> (Barfleur) are on the
+            coast of Normandy.</p></note>
+        <note type="enote" n="46">656<space rend="indent1"/><p>Arthur’s concern for the protection
+            of his game is not surprising in a century when (as shown by <hi rend="italic">Sir
+              Gawain and the Green Knight</hi>) hunting was of great importance to the
+            aristocracy.</p></note>
+        <note type="enote" n="47">785<space rend="indent1"/><p><hi rend="italic">Rapped</hi>, H
+            suggests, means “barked,” not dashed to earth, which is inconsistent with the flying
+            posture.</p></note>
+        <note type="enote" n="48">808<space rend="indent1"/><p><hi rend="italic">seven science</hi>.
+            The seven liberal arts (grammar, rhetoric, logic, which were the <hi rend="italic"
+              >trivium</hi>, and arithmetic, geometry, astronomy, music, which were the <hi
+              rend="italic">quadrivium</hi>); these were the basis of Medieval education.</p></note>
+        <note type="enote" n="49">841<space rend="indent1"/><p><hi rend="italic">Templar</hi>. A
+            member of the Knights Templar, a military order founded c. 1118 for the protection of
+            the Holy Sepulchre and pilgrims visiting the Holy Land. The order was suppressed in
+            1312.</p></note>
+        <note type="enote" n="50">848<space rend="indent1"/><p><hi rend="italic">countree of
+              Constantine</hi>. The country around Cotentin, a peninsula on the coast of
+            Normandy.</p></note>
+        <note type="enote" n="51">880<space rend="indent1"/><p>The promontory is Mont-Saint-Michel,
+            on which, according to this story, Arthur founds the famous monastery to commemorate his
+            victory. See also line 899.</p></note>
+        <note type="enote" n="52">905<space rend="indent1"/><p><hi rend="italic">jupon</hi>. A gipon
+            is a sleeveless cloth garment worn over the armor; Arthur’s is <hi rend="italic">jagged
+              in shredes</hi> — with fashionable scallopings at the edges. <hi rend="italic"
+              >Jerodine</hi> is apparently a kind of cloth (perhaps gabardine).</p></note>
+        <note type="enote" n="53">964<space rend="indent1"/><p><hi rend="italic">Wade</hi>. A figure
+            in German legend and a now-lost English romance.</p></note>
+        <note type="enote" n="54">1028<space rend="indent1"/><p><hi rend="italic">piment</hi>. Wine
+            mixed with honey and spices.</p></note>
+        <note type="enote" n="55">1175<space rend="indent1"/><p>A reference to the giant Pitho, whom
+            Arthur slew “in Aravio Montem” (in the mount of Araby), the Aran mountains in Wales. The
+            story is from Geoffrey of Monmouth, <hi rend="italic">History of the Kings of
+              Britain</hi>, Book X.</p></note>
+        <note type="enote" n="56">1225<space rend="indent1"/><p><hi rend="italic">Castel Blank</hi>
+            is unique in this poem.</p></note>
+        <note type="enote" n="57">1263<space rend="indent1"/><p><hi rend="italic">Sir Bois</hi>.
+            Earl of Oxford. “The name Bos (Boso de Vado Boum in Geoffrey [of Monmouth] was probably
+            invented by Geoffrey as a pun on <hi rend="italic">bos</hi> and Oxford” (Ackerman, p.
+            38).</p></note>
+        <note type="enote" n="58">1264<space rend="indent1"/><p><hi rend="italic">Sir Berille</hi>.
+            Perhaps Borel, Earl of Mans, who fights on Arthur’s side and is given Le
+          Mans.</p></note>
+        <note type="enote" n="59">1265<space rend="indent1"/><p><hi rend="italic">Sir Grime</hi>. Bj
+            emends to Geryn of Chartres, one of Arthur’s vassals who appears at this point in the
+            chronicles and also in line 3708. Grime is not known elsewhere.</p></note>
+        <note type="enote" n="60">1401–02<space rend="indent1"/><p>The perilous water that falls
+            from the sea fifty miles away apparently refers to a tidal estuary (n.b. <hi
+              rend="italic">salt strandes</hi> in line 1422).</p></note>
+        <note type="enote" n="61">1405<space rend="indent1"/><p>I agree with H that <hi
+              rend="italic">changen</hi> should be taken as a hunting metaphor: to “change”
+            attention from prey to prey.</p></note>
+        <note type="enote" n="62">1424<space rend="indent1"/><p>A <hi rend="italic">bannerette</hi>
+            was a senior knight entitled to bear his own banner; a <hi rend="italic">bacheler</hi>
+            ranked somewhat lower and was either a newly made knight or a young man about to be
+            knighted.</p></note>
+        <note type="enote" n="63">1558<space rend="indent1"/><p><hi rend="italic">Sir Ewain fitz
+              Henry</hi>. Probably Sir Ewain fitz Urien, as in line 337. Ackerman notes that he is
+            given both names in Layamon’s <hi rend="italic">Brut</hi> as well (p. 248).</p></note>
+        <note type="enote" n="64">1622<space rend="indent1"/><p><hi rend="italic">Sir Evander</hi>.
+            King of Syria and one of Lucius’s vassals.</p></note>
+        <note type="enote" n="65">1638<space rend="indent1"/><p><hi rend="italic">Sir Clegis, Sir
+              Cleremus, Sir Cleremond</hi>. Sir Clegis is a knight of the Rount Table. Either Sir
+            Cleremus and Sir Cleremond might allude to Clarrus of Clere Mounte who appears in other
+            romances aiding Launcelot in his war against Arthur. Here the pair fill out the
+            alliterative quatrain.</p></note>
+        <note type="enote" n="66">1681<space rend="indent1"/><p>Clegis challenges the Romans to a
+            formal tournament, with three courses of war (that is, three jousts with the lance) and
+            the claims of knighthood (the winner to take the horse and arms of the
+          loser.)</p></note>
+        <note type="enote" n="67">1683<space rend="indent1"/><p>Clegis’ insult, like the King of
+            Syria’s, is part of the formal “flyting.”</p></note>
+        <note type="enote" n="68">1688<space rend="indent1"/><p><hi rend="italic">hufe</hi>. The
+            charge that Clegis is trying to delay things is only a <hi rend="italic">pro forma</hi>
+            insult. More significant is the King of Syria’s inquiry about Clegis’ ancestry, since it
+            would be beneath his dignity to joust with any but the highest noble.</p></note>
+        <note type="enote" n="69">1695<space rend="indent1"/><p><hi rend="italic">Sir Brut</hi>. The
+            legendary founder of Britain. According to Geoffrey of Monmouth he was the
+            great-grandson of Aeneas of Troy.</p></note>
+        <note type="enote" n="70">1786<space rend="indent1"/><p><hi rend="italic">corn-bote</hi>.
+            Literally a fine paid in grain.</p></note>
+        <note type="enote" n="71">1855<space rend="indent1"/><p>I.e., the Saracens are six feet from
+            the waist up.</p></note>
+        <note type="enote" n="72">1904<space rend="indent1"/><p><hi rend="italic">Utolf</hi>. Uther,
+            Arthur’s father, is dead. Utolfe appears in lines 1622 and 1868, along with Evander, as
+            knights on the Roman side.</p></note>
+        <note type="enote" n="73">2047<space rend="indent1"/><p>The knights of the Round Table
+            fulfill the vows they made; the King of Wales fulfills the vow he made in lines
+            330–32.</p></note>
+        <note type="enote" n="74">2066<space rend="indent1"/><p><hi rend="italic">Ewain fitz
+              Urien</hi> (Bj, Be, K, H). MS: <hi rend="italic">Ewayne sir Fytz Vriene</hi> (Br).
+            Ewain fitz Urien fulfills the vow he made in lines 357–63.</p></note>
+        <note type="enote" n="75">2073<space rend="indent1"/><p>Lancelot had vowed (lines 372–77) to
+            strike down the emperor himself, and accordingly he now strikes him down and leaves a
+            spear stuck in his belly. The emperor evidently recovers very quickly, for he is soon
+            back in battle.</p></note>
+        <note type="enote" n="76">2081<space rend="indent1"/><p>Lot had vowed to be the first to
+            ride through the Roman ranks (lines 386–94), which he now does. When Lot has
+            accomplished this, the vows are all fulfilled and the battle proper begins.</p></note>
+        <note type="enote" n="77">2123<space rend="indent1"/><p><hi rend="italic">Caliburn</hi> is
+            used for <hi rend="italic">Excalibur</hi> by Geoffrey of Monmouth.</p></note>
+        <note type="enote" n="78">2305<space rend="indent1"/><p>The <hi rend="italic">colours</hi>
+            are the heraldic devices on the banners set above the caskets.</p></note>
+        <note type="enote" n="79">2384<space rend="indent1"/><p><hi rend="italic">Sir Bedwar the
+              rich</hi>. Apparently not the same knight as <hi rend="italic">Sir Bedwere the
+              rich</hi> who was buried in line 2379. See Bj, p. 158, and K, pp. 187–88, on defects
+            in lines 2371–85.</p></note>
+        <note type="enote" n="80">2390<space rend="indent1"/><p><hi rend="italic">Cristofer
+            day</hi>. St. Christopher’s day, July 25. St. Christopher has since been
+            de-canonized.</p></note>
+        <note type="enote" n="81">2586<space rend="indent1"/><p><hi rend="italic">Salerne</hi>.
+            Salerno. The University of Salerno was famous in the Middle Ages for its medical
+            school.</p></note>
+        <note type="enote" n="82">2648<space rend="indent1"/><p>It would be dishonorable for Priamus
+            to be defeated by an ordinary soldier. Gawain is such a great knight that even to be
+            defeated by him is an honor that Priamus would prize even if no one were to learn of
+            it.</p></note>
+        <note type="enote" n="83">2705<space rend="indent1"/><p>The four wells of Paradise (which
+            were thought to be in the East) were celebrated for their magical qualities (one was the
+            Fountain of Youth) and thought to be the sources of the four great rivers of the East —
+            the Nile, the Ganges, the Tigris, and the Euphrates.</p></note>
+        <note type="enote" n="84">2868<space rend="indent1"/><p><hi rend="italic">Unwine</hi>. A
+            legendary hero of the Goths, probably known to the poet from a lost English
+          romance.</p></note>
+        <note type="enote" n="85"><space rend="indent1"/><p><hi rend="italic">Absolon</hi>. Absalom
+            (2 Samuel 13–19), celebrated in medieval romance for his personal beauty.</p></note>
+        <note type="enote" n="86">2876<space rend="indent1"/><p>The adventure in the vale of
+            Josephat, to which the <hi rend="italic">gestes</hi> refer, is an episode in the <hi
+              rend="italic">Fuerre de Gaderes</hi>, a story of the Crusades.</p></note>
+        <note type="enote" n="87">2891<space rend="indent1"/><p>He stabs him through a gyronny
+            shield (a shield decorated with two colors divided into triangles).</p></note>
+        <note type="enote" n="88">2951<space rend="indent1"/><p><hi rend="italic">middle-erthe</hi>.
+            “The earth, as placed between heaven and hell, or as supposed to occupy the centre of
+            the universe” (<hi rend="italic">OED</hi>).</p></note>
+        <note type="enote" n="89">3031<space rend="indent1"/><p><hi rend="italic">in Hampton</hi>.
+            According to H, the phrase “indicates that the messenger’s reward is not simply a lump
+            sum but an estate worth £100 a year — a princely gift for a mere herald” (p.
+          351).</p></note>
+        <note type="enote" n="90">3101<space rend="indent1"/><p>He crosses over Lake Lucerne into
+            Switzerland.</p></note>
+        <note type="enote" n="91">3140<space rend="indent1"/><p>Br: <hi rend="italic">Plesaunce</hi>
+            (Piacenza), <hi rend="italic">Pawnce</hi> (Ponte), and <hi rend="italic">Pownte
+              Tremble</hi> (Pontremole) are towns in Lombardy.</p></note>
+        <note type="enote" n="92">3212<space rend="indent1"/><p><hi rend="italic">Cross-days</hi>:
+            Rogation Days, three special days of prayer preceding Ascension Day (forty days after
+            Easter).</p></note>
+        <note type="enote" n="93">3251<space rend="indent1"/><p>Dame Fortune, with her Wheel of
+            Fortune, is a familiar figure in late Medieval poetry, as are the Nine Worthies whom
+            Arthur sees in his dream. The Nine Worthies first appear in fourteenth century works
+            such as <hi rend="italic">The Parlement of Three Ages</hi> and reappear as late as
+            Shakespeare’s <hi rend="italic">Midsummer Night’s Dream</hi>.</p></note>
+        <note type="enote" n="94">3256<space rend="indent1"/><p><hi rend="italic">besauntes</hi> are
+            coins, originally from Byzantium, here coin-shaped golden discs.</p></note>
+        <note type="enote" n="95">3345<space rend="indent1"/><p>Frollo was the ruler of France whom
+            Arthur killed in single combat when he conquered that country as part of the conquests
+            that immediately precede the action of this poem and that are summarized in the opening
+            lines. The story is told in Geoffrey of Monmouth’s <hi rend="italic">History of the
+              Kings of Britain</hi>, Book IX, chapter 11, where Arthur’s adversary is called Flollo,
+            and in Wace’s <hi rend="italic">Brut</hi> (which our poet may have known), where he is
+            called Frolle or Frollo.</p></note>
+        <note type="enote" n="96">3408–10<space rend="indent1"/><p>Alexander the Great, Hector of
+            Troy, and Julius Caesar are the three Pagan Worthies.</p></note>
+        <note type="enote" n="97">3412–16<space rend="indent1"/><p>Judas Maccabeus, Joshua, and King
+            David are the three Jewish Worthies.</p></note>
+        <note type="enote" n="98">3423<space rend="indent1"/><p><hi rend="italic">Karolus</hi>
+            (Charlemagne) is the first of the three Christian Worthies. The second is Godfrey of
+            Bouillon (line 3430), and the third is Arthur himself.</p></note>
+        <note type="enote" n="99">3434<space rend="indent1"/><p>He shall recover the cross when he
+            conquers Jerusalem. Godfrey’s deeds, like Charlemagne’s (lines 3423–29), are prophesied,
+            since Arthur historically precedes both.</p></note>
+        <note type="enote" n="100">3470<space rend="indent1"/><p>Be interprets <hi rend="italic"
+              >rowme</hi> (“roomy, or full-cut”) to be fashionable, as he does the <hi rend="italic"
+              >shreddes and shragges</hi> (“scalloped edges”) in line 3473, but I am inclined to
+            agree with H that the stranger is dressed quite unfashionably.</p></note>
+        <note type="enote" n="101">3474<space rend="indent1"/><p>The scallop shells were the mark of
+            a pilgrimage to St. James of Compostela in Spain, the palm branch of a pilgrimage to the
+            Holy Land.</p></note>
+        <note type="enote" n="102">3541<space rend="indent1"/><p>From the Humber River (at the
+            southern border of Yorkshire) to the town of Hawick (in southern Scotland), i.e., the
+            whole North Country.</p></note>
+        <note type="enote" n="103">3545<space rend="indent1"/><p>Hengest and Horsa were
+            traditionally the first Germanic (that is, Anglo-Saxon) invaders of Britain; Geoffrey of
+            Monmouth (<hi rend="italic">History</hi>, Book VI, chapter 11) gives the traditional
+            account.</p></note>
+        <note type="enote" n="104">3611<space rend="indent1"/><p>Apparently the painted cloths (sewn
+            together and doubled) are meant to serve as a protection against arrows.</p></note>
+        <note type="enote" n="105">3648–49<space rend="indent1"/><p>The maiden on the <hi
+              rend="italic">chef,</hi> the upper third of the shield, is the Blessed Virgin, who is
+            holding the Christ-child, the <hi rend="italic">Chef</hi> or Lord of heaven. In 3650 the
+            sense seems to be “noble.”</p></note>
+        <note type="enote" n="106">3650<space rend="indent1"/><p>Arthur will not change his arms to
+            disguise himself even when hard-pressed, as Mordred later does (lines
+          4181–85).</p></note>
+        <note type="enote" n="107">3662<space rend="indent1"/><p>Ramming and boarding were the
+            principal tactics in fourteenth century sea battles, since cannon had only recently been
+            introduced.</p></note>
+        <note type="enote" n="108">3709<space rend="indent1"/><p><hi rend="italic">Galuth</hi> is
+            Gawain’s sword, here personified as “a good gome.”</p></note>
+        <note type="enote" n="109">3743<space rend="indent1"/><p><hi rend="italic">Engendure</hi>
+            may be a reference to Mordred’s incestuous begetting (see Stanzaic <hi rend="italic"
+              >Morte Arthure</hi>, lines 2955–56), though there is no direct reference to it in this
+            poem.</p></note>
+        <note type="enote" n="110">3773<space rend="indent1"/><p>The Montagues were a famous
+            Northern English family. The head of the family was a supporter of Richard II and a
+            suspected heretic. He rebelled against Henry IV in 1400; he was beheaded and his head
+            was displayed on London Bridge as a warning to other potential traitors.</p></note>
+        <note type="enote" n="111">3869<space rend="indent1"/><p>The golden griffin (a winged
+            dragon) is Gawain’s usual heraldic device.</p></note>
+        <note type="enote" n="112">3891<space rend="indent1"/><p><hi rend="italic">sib-blood</hi>.
+            Mordred and Gawain are half brothers; their mother is Arthur’s sister.</p></note>
+        <note type="enote" n="113">4095<space rend="indent1"/><p>The banners must be defended not
+            only for the sake of honor but because signals made with the banners are the only means
+            of communication during a battle.</p></note>
+        <note type="enote" n="114">4237<space rend="indent1"/><p><hi rend="italic">felettes</hi>. Be
+            glossed as “rib-plates,” following Finlayson. K argues that it means “loins,” from OF
+              <hi rend="italic">filet</hi>, while H suggests “bands of muscular tissue, especially
+            the loins” (p. 444).</p></note>
+        <note type="enote" n="115">4303<space rend="indent1"/><p>Arthur is said to have been buried
+            at Glastonbury.</p></note>
+        <note type="enote" n="116">4326<space rend="indent1"/><p><hi rend="italic">In manus</hi> is
+            a common Medieval short form of <hi rend="italic">Pater, in manus tuas commendo spiritum
+              meum:</hi> “Father, into thy hands I commend my spirit,” Christ’s last words on the
+            cross according to Luke 23:46.</p></note>
+        <note type="enote" n="117">4332<space rend="indent1"/><p><hi rend="italic">Requiem</hi>.
+            Mass for the dead.</p></note>
+        <note type="enote" n="118">4346<space rend="indent1"/><p><hi rend="italic">Brut</hi>. The
+            History of Britain, which begins with Brutus, who settled the country. <hi rend="italic"
+              >Brut</hi> refers to any history of Britain, though the poet may have meant some
+            specific work, such as the popular English prose <hi rend="italic">Brut</hi>.</p></note>
+        <note type="enote" n="119">4347<space rend="indent1"/><p>This and the following lines are
+            not by the original author of our poem. This line, which is the inscription on Arthur’s
+            tomb (dating from 1278), was added by a later reader of the manuscript. The next lines
+            concern the scribe rather than the author of the poem. Robert Thornton, who lived in
+            Yorkshire, about 1440, wrote out the manuscript that contains this and a number of other
+            romances. The final Latin line, asking that Robert be blessed for his work, was written
+            by a grateful reader in the later fifteenth century.</p></note>
+      </div>
+    </body>
+  </text>
+</TEI>

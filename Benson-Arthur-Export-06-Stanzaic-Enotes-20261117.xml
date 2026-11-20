@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Benson-Arthur-Export-06-Stanzaic-Enotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Explanatory Notes to Stanzaic Morte Arthur</title>
+        <author>Benson, Larry D.</author>
+        <author>Foster, Edward E.</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Castleberry, Kristi J.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-12" to="2026-01">Audited documents prior to print/export</resp>
+          <resp from="2026-08" to="2026-08">Collected metadata</resp>
+          <resp from="2026-08" to="2026-08">Copyedited and proofread</resp>
+          <resp from="2026-08" to="2026-08">Entered corrections for digital edition</resp>
+          <resp from="2026-08" to="2026-08">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Espinosa, Juan</persName>
+          <resp from="2026-09" to="2026-09">Entered corrections for digital edition</resp>
+          <resp from="2026-09" to="2026-09">Formatted for XML export</resp>
+          <resp from="2026-09" to="2026-09">Ensured adherence to METS Style Guide</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-11" to="2023-11">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed and suggested explanatory notes</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2026-09" to="2026-11">Audited documents prior to print/export</resp>
+          <resp from="2026-10" to="2026-10">Collected metadata</resp>
+          <resp>Entered corrections for digital edition</resp>
+          <resp from="2026-11" to="2026-11">Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2026.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Texts Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Benson, Larry D.</editor>
+            <editor>Foster, Edward E.</editor>
+            <title>King Arthur's Death: The Middle English Stanzaic Morte Arthur and Alliterative
+              Morte Arthure</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1994</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/benson-arthur/blob/main/benson-arthur-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edited by Larry Benson and published by Bobbs-Merrill in 1974</change>
+      <change>Revised by Edward Foster and published by METS in 1994</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025 and 2026</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Benson-Arthur-Export-06-Stanzaic-Enotes"/>
+      <div type="text">
+        <note type="enote" n="1">1<space rend="indent1"/><p><hi rend="italic">Lordinges</hi>: a
+            familiar form of address for the audience at the beginning of romances. See, e.g., <hi
+              rend="italic">Havelok</hi> and the Pardoner’s address to the other pilgrims in <hi
+              rend="italic">The Canterbury Tales</hi>. It implies nothing about the social status of
+            the audience. (F)</p></note>
+        <note type="enote" n="2">43<space rend="indent1"/><p><hi rend="italic">Galehod</hi>.
+            Malory’s Galyhodyn, king of Surluse and kinsman of Galehaut. See lines 225, 261, 2572,
+            and 2587.</p></note>
+        <note type="enote" n="3">152<space rend="indent1"/><p>The convention noted in lines 147–152
+            was not the case in actual life.</p></note>
+        <note type="enote" n="4">245<space rend="indent1"/><p><hi rend="italic">aunt</hi>. Ascolot’s
+            sister, to whom they return when Launcelot is wounded, line 321.</p></note>
+        <note type="enote" n="5">284<space rend="indent1"/><p><hi rend="italic">brown</hi>: the word
+            is used in the sense of “shining, gleaming, or burnished” only with regard to swords or
+            steel. (F)</p></note>
+        <note type="enote" n="6">309<space rend="indent1"/><p><hi rend="italic">hood</hi>: “The part
+            of a suit of armor that covers the head; applied to the helmet itself, or to a flexible
+            head-covering inside the helmet” (<hi rend="italic">OED</hi>).</p></note>
+        <note type="enote" n="7">457<space rend="indent1"/><p>The boards are set on trestles to form
+            tables. Permanently assembled tables were still rare at this time.</p></note>
+        <note type="enote" n="8">603<space rend="indent1"/><p><hi rend="italic">Launcelotes sheld du
+              Lake:</hi> Launcelot du Lake’s shield. The inflectional ending is placed on the
+            primary noun rather than on the last word of the noun phrase. The construction was
+            disappearing in the fourteenth century but can be observed in Chaucer’s “Wyves Tale of
+            Bath” (“Wife of Bath’s Tale”). (F)</p></note>
+        <note type="enote" n="9">764<space rend="indent1"/><p><hi rend="italic">Cross and Rood</hi>.
+            The redundancy perhaps implies urgency. Benson notes, however, that the expression <hi
+              rend="italic">Cross on</hi> (or<hi rend="italic"> and</hi>)<hi rend="italic">
+              Rood</hi> is frequently used in this poem; the word <hi rend="italic">cross</hi> is
+            probably a metathesis of <hi rend="italic">cors</hi> — body, as in line 2880, where <hi
+              rend="italic">Cors on Rood</hi> does appear.</p></note>
+        <note type="enote" n="10">840<space rend="indent1"/><p>No reason is provided as to why the
+            squire wishes to poison Gawain and, within the narrative conventions of romance, none is
+            needed: our interest is in what the effects will be for Guinevere. (F)</p></note>
+        <note type="enote" n="11">916<space rend="indent1"/><p>Guinevere has two choices: to be
+            “defended” in combat or be tried by a group of the knights. She knows that if the latter
+            occurs she is doomed.</p></note>
+        <note type="enote" n="12">1350<space rend="indent1"/><p><hi rend="italic">Cross on
+            Rood</hi>. See note to line 764.</p></note>
+        <note type="enote" n="13">1472<space rend="indent1"/><p>Sometimes <hi rend="italic"
+              >blake</hi> has the meaning white and Be glosses it thus. I think, however, that it is
+            more likely that Lancelot is dressed in black and the more ordinary meaning can stand.
+            (F)</p></note>
+        <note type="enote" n="14">1617–18<space rend="indent1"/><p>Compare Priamus’s words to Gawain
+            in the <hi rend="italic">Alliterative Morte Arthure</hi>, lines 2646–49.</p></note>
+        <note type="enote" n="15">1831<space rend="indent1"/><p><hi rend="italic">hauberk</hi>:
+            “Originally intended for the defense of the neck and shoulders; but already in the
+            twelfth and thirteenth centuries developed into a long coat of mail, or military tunic,
+            usually of ring or chain mail, which adapted itself readily to the motions of the body”
+              (<hi rend="italic">OED</hi>).</p></note>
+        <note type="enote" n="16">1951<space rend="indent1"/><p>The smock is a loose, usually white,
+            simple sleeveless dress over which the other garments were put; the counterpart of a
+            modern slip, though it would usually show beneath the vest, sleeves, cloaks, and such
+            that were put over it.</p></note>
+        <note type="enote" n="17">2025<space rend="indent1"/><p>Launcelot apparently thinks Gaheriet
+            fought against him.</p></note>
+        <note type="enote" n="18">2052<space rend="indent1"/><p>Launcelot offers to take part in a
+            judicial duel of the sort he previously fought to prove Guenevere’s innocence of the
+            charge of poisoning.</p></note>
+        <note type="enote" n="19">2253<space rend="indent1"/><p>A papal interdict would deny the
+            sacraments of the Church to everyone in the country.</p></note>
+        <note type="enote" n="20">2305<space rend="indent1"/><p><hi rend="italic">Benwick</hi> is
+            Bayonne (or Beune), a city in southwestern France. See <hi rend="italic">Alliterative
+              Morte Arthure</hi>, line 587. (F)</p></note>
+        <note type="enote" n="21">2345<space rend="indent1"/><p><hi rend="italic">Joyous Gard then
+              they</hi> (Be). MS: <hi rend="italic">Ioyus gard the they</hi>. Joyous Gard is
+            Lancelot’s castle (fortress) in Northern England. (F)</p></note>
+        <note type="enote" n="22">2361<space rend="indent1"/><p>The heathen nations are in the
+            Orient, from which silk came.</p></note>
+        <note type="enote" n="23">2466<space rend="indent1"/><p>Caerleon, in South Wales on the
+            River Usk near the Bristol Channel, was one of the chief Arthurian cities. See <hi
+              rend="italic">Alliterative Morte Arthure</hi>, note to line 61. (F)</p></note>
+        <note type="enote" n="24">2639<space rend="indent1"/><p>The phrase <hi rend="italic">wise .
+              . . under weed</hi> has little real meaning and conveys only the idea of a “good
+            knight.”</p></note>
+        <note type="enote" n="25">2837<space rend="indent1"/><p>Gawain is Arthur’s
+          nephew.</p></note>
+        <note type="enote" n="26">2954<space rend="indent1"/><p><hi rend="italic">That false
+              traitour</hi>, applied here to Mordred, is a commonplace epithet for Satan, who led
+            the rebellion against God. (F)</p></note>
+        <note type="enote" n="27">2955<space rend="indent1"/><p>Mordred was the product of an
+            incestuous union between Arthur and his own sister. Though little is made of it in this
+            poem, Arthur’s fall is partly a consequence of his own sin.</p></note>
+        <note type="enote" n="28">2957<space rend="indent1"/><p>The motif of the false steward, who
+            evilly abuses his stewardship, is a familiar literary and folk motif. (F)</p></note>
+        <note type="enote" n="29">2960<space rend="indent1"/><p>Thus Mordred intends to commit
+            incest, made worse since Guenevere is also his father’s wife. (Compare line
+          2987.)</p></note>
+        <note type="enote" n="30">3160<space rend="indent1"/><p>The Feast of the Trinity is the
+            first Sunday after Pentecost.</p></note>
+        <note type="enote" n="31">3179<space rend="indent1"/><p><hi rend="italic">Besaunt</hi>: a
+            coin of Byzantine origin, sometimes used as ornamental jewelry. (F)</p></note>
+        <note type="enote" n="32">3357<space rend="indent1"/><p><hi rend="italic">fewtered</hi>:
+            placed spears against the “fewter,” the spear rest on the saddle, into which the spear
+            would be placed when the knight prepared to attack.</p></note>
+        <note type="enote" n="33">3376<space rend="indent1"/><p><hi rend="italic">Brutus</hi>.
+            Brutus is the legendary hero who, according to Geoffrey of Monmouth’s <hi rend="italic"
+              >History of the Kings of Britain</hi> (Book I), conquered what is now England from a
+            race of giants and founded the nation to which he gave his name.</p></note>
+        <note type="enote" n="34">3413<space rend="indent1"/><p><hi rend="italic">names seven</hi>.
+            The number seven commonly signifies a totality. Thus the seven names implies <hi
+              rend="italic">all the names of Jesus</hi>. But traditions reaching far back into the
+            rabbinical commentaries often, in fact, identify seven specific names for God. According
+            to <hi rend="italic">The Jewish Encyclopedia</hi>, “The number of divine names that
+            require the scribe’s special care is seven: El, Elohim, Adonai, YHWH, Ehyeh-Asher-Ehyeh,
+            Shaddai, and Zeba’ot” (9, 163). The seven names of the Lord are also referred to in <hi
+              rend="italic">The Second Shepherd’s Play</hi> (lines 190–91), where Mak says: “Now
+            lord, for thy naymes sevyn, that made both moyn and starnes / Well mo then I can neuen
+            thi will, lorde, of me tharnys [is unclear].” See also Brian P. Copenhaver, “Names of
+            God,” in <hi rend="italic">A Dictionary of Biblical Traditions in English
+              Literature</hi>, ed. David Lyle Jeffrey (Grand Rapids: William B. Eerdmans, 1992), pp.
+            535–37, who notes more than one hundred and fifty substitute names for God and, in the
+            New Testament, more than forty names and titles for Jesus.</p></note>
+        <note type="enote" n="35">3504<space rend="indent1"/><p>Possibly Morgan le Fay, Arthur’s
+            half-sister. Although often antagonistic to Arthur and Guenevere, she often helps heal
+            Arthurian knights and assists in transporting Arthur to Avalon. (M)</p></note>
+        <note type="enote" n="36">3507<space rend="indent1"/><p><hi rend="italic">leching</hi>. In
+            the fourteenth century, leeching had no necessary connection with the therapeutic
+            application of leeches. It means simply “medical care” from OE <hi rend="italic"
+              >laece</hi>, to heal.</p></note>
+        <note type="enote" n="37">3569<space rend="indent1"/><p><hi rend="italic">Aumsbury</hi>:
+            Almesbury (or Amesbury): a town in Wiltshire where Guenevere retreats to a convent after
+            Arthur’s death. (M, F)</p></note>
+        <note type="enote" n="38">3759<space rend="indent1"/><p>The “recent events” are Mordred’s
+            treachery and Arthur’s death.</p></note>
+        <note type="enote" n="39">3862<space rend="indent1"/><p><hi rend="italic">received</hi> in
+            this line refers to receiving the sacrament of the Eucharist, the body and blood of
+            Christ, after having been forgiven (shriven) one’s sins.</p></note>
+      </div>
+    </body>
+  </text>
+</TEI>

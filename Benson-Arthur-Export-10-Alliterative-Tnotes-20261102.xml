@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0"
+  xml:id="Benson-Arthur-Export-10-Alliterative-Tnotes-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Textual Notes to the Alliterative Morte Arthure</title>
+        <author>Benson, Larry D.</author>
+        <author>Foster, Edward E.</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Castleberry, Kristi J.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-12" to="2026-01">Audited documents prior to print/export</resp>
+          <resp from="2026-08" to="2026-08">Collected metadata</resp>
+          <resp from="2026-08" to="2026-08">Copyedited and proofread</resp>
+          <resp from="2026-08" to="2026-08">Entered corrections for digital edition</resp>
+          <resp from="2026-08" to="2026-08">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Espinosa, Juan</persName>
+          <resp from="2026-09" to="2026-09">Entered corrections for digital edition</resp>
+          <resp from="2026-09" to="2026-09">Formatted for XML export</resp>
+          <resp from="2026-09" to="2026-09">Ensured adherence to METS Style Guide</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-11" to="2023-11">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2026-09" to="2026-11">Audited documents prior to print/export</resp>
+          <resp from="2026-10" to="2026-10">Collected metadata</resp>
+          <resp>Entered corrections for digital edition</resp>
+          <resp from="2026-11" to="2026-11">Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2026.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Benson, Larry D.</editor>
+            <editor>Foster, Edward E.</editor>
+            <title>King Arthur's Death: The Middle English Stanzaic Morte Arthur and Alliterative
+              Morte Arthure</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1994</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/benson-arthur/blob/main/benson-arthur-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edited by Larry Benson and published by Bobbs-Merrill in 1974</change>
+      <change>Revised by Edward Foster and published by METS in 1994</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025 and 2026</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Benson-Arthur-Export-10-Alliterative-Tnotes"/>
+      <div type="text">
+        <note type="tnote" n="1">37<space rend="indent1"/><p><hi rend="italic">Grace</hi>. The MS
+            reading. Most editors emend to <hi rend="italic">Grece</hi> (Greece) but <hi
+              rend="italic">Grace</hi> (Grasse) makes more geographical sense. Grasse is a small
+            city in southern France, north of Cannes, which was an episcopal see from 1244 to 1790.
+            K retains <hi rend="italic">Grace</hi>.</p></note>
+        <note type="tnote" n="2">41<space rend="indent1"/><p><hi rend="italic">Vienne</hi>. Ackerman
+            suggests Vienna, though K thinks, rather, that it must refer to a town north of Valence
+            or a district in Poitier.</p></note>
+        <note type="tnote" n="3">42<space rend="indent1"/><p><hi rend="italic">Overgne</hi> (Ba, Be,
+            K, H). I.e., Auvergne. MS: <hi rend="italic">Eruge</hi>.</p></note>
+        <note type="tnote" n="4">134<space rend="indent1"/><p><hi rend="italic">There is</hi> (Br,
+            Be, K). MS: <hi rend="italic">thare</hi>.</p></note>
+        <note type="tnote" n="5">142<space rend="indent1"/><p><hi rend="italic">crowned was</hi>
+            (Bj, Be, K). MS: <hi rend="italic">corounde</hi>.</p></note>
+        <note type="tnote" n="6">178<space rend="indent1"/><p><hi rend="italic">togges</hi> (OL,
+            Be). MS: <hi rend="italic">togers</hi>. H reads <hi rend="italic">toges;</hi> Br and K
+            follow MS.</p></note>
+        <note type="tnote" n="7">186<space rend="indent1"/><p><hi rend="italic">whom</hi>. MS: <hi
+              rend="italic">whame</hi>. Bj, Be, and H emend to <hi rend="italic">when</hi> or <hi
+              rend="italic">whan</hi>, but I have followed Br and K in retaining MS
+          sense.</p></note>
+        <note type="tnote" n="8">256<space rend="indent1"/><p><hi rend="italic">deffuse</hi>. Be and
+            H emend to <hi rend="italic">disuse</hi>, but I have followed Br and K in retaining
+            MS.</p></note>
+        <note type="tnote" n="9">301<space rend="indent1"/><p><hi rend="italic">eldes</hi>. Bj and
+            Be emend to <hi rend="italic">monthes</hi>, but I have followed Br, K, and H in
+            retaining MS. It probably means “of two generations”.</p></note>
+        <note type="tnote" n="10">305<space rend="indent1"/><p><hi rend="italic">beseekes</hi>. MS;
+              <hi rend="italic">besekys</hi>. Bj and Be emend to <hi rend="italic">congee
+              beseekes</hi>, but I have followed Br, K, and H in adhering to the MS
+          reading.</p></note>
+        <note type="tnote" n="11">334<space rend="indent1"/><p><hi rend="italic">Of Wyghte and</hi>.
+            GV and Be emend to <hi rend="italic">of wightest;</hi> H emends to <hi rend="italic">of
+              wyghte men</hi>, but I have followed Br and K in retaining MS.</p></note>
+        <note type="tnote" n="12">369<space rend="indent1"/><p><hi rend="italic">love</hi>. H reads
+              <hi rend="italic">lone</hi> and translates the line “I praise God for this
+            contribution” (H, p. 268).</p></note>
+        <note type="tnote" n="13">451<space rend="indent1"/><p><hi rend="italic">nyghes</hi> (Ba,
+            K). MS: <hi rend="italic">nyghttes</hi>. “The appearance of <hi rend="italic"
+              >nyghte</hi> in the same line is very likely the source of the scribal error” (K, p.
+            171).</p></note>
+        <note type="tnote" n="14">458<space rend="indent1"/><p><hi rend="italic">lette</hi>. Bj, Be,
+            and H emend to <hi rend="italic">lefe</hi>, but I have followed Br and K in retaining
+            MS.</p></note>
+        <note type="tnote" n="15">471<space rend="indent1"/><p><hi rend="italic">sixteen</hi> (Bj,
+            Be, K, H). MS: <hi rend="italic">sex sum of six</hi>. “Either ‘part of a company of six’
+            or ‘along with a company of six’. . . . In either case the number given [in the MS] is
+            inconsistent with that of line 81, where the Senator arrives with a company of sixteen”
+            (K, p. 171).</p></note>
+        <note type="tnote" n="16">513<space rend="indent1"/><p><hi rend="italic">sandes</hi>. Bj,
+            Be, and H emend to <hi rend="italic">sandesman</hi>, but I have followed Br and K in
+            retaining MS.</p></note>
+        <note type="tnote" n="17">515<space rend="indent1"/><p><hi rend="italic">wye</hi> (OL, Be,
+            K, H). MS: <hi rend="italic">waye</hi>. Br’s emendation.</p></note>
+        <note type="tnote" n="18">587<space rend="indent1"/><p><hi rend="italic">Bayous</hi>. Be
+            emends to <hi rend="italic">boyes</hi>; H emends to <hi rend="italic">barons</hi>, but I
+            have followed Br and K in retaining MS. This is an odd location in the context, but the
+            suggested emendations are not persuasive. <hi rend="italic">Bayonne</hi> (Beune) is in
+            southwestern France.</p></note>
+        <note type="tnote" n="19">674<space rend="indent1"/><p><hi rend="italic">wordles</hi>. MS:
+              <hi rend="italic">werdez</hi>. Bj, K, H read <hi rend="italic"
+          >wer[l]de?</hi>.</p></note>
+        <note type="tnote" n="20">716<space rend="indent1"/><p><hi rend="italic">Sways</hi> (Bj,
+            Be). MS: <hi rend="italic">Twys</hi>.</p></note>
+        <note type="tnote" n="21">734<space rend="indent1"/><p><hi rend="italic">Hackes</hi>. MS:
+              <hi rend="italic">Hukes</hi>. K emends to <hi rend="italic">Hekes</hi>. H follows MS
+            on grounds that <hi rend="italic">hukes</hi> are outergarments or possibly “caparisons
+            for horses” (<hi rend="italic">MED, s.v.)</hi>; she finds Bj’s emendation <hi
+              rend="italic">hackes</hi> to be redundant if paired with <hi rend="italic"
+              >hackeneys</hi>.</p></note>
+        <note type="tnote" n="22">769<space rend="indent1"/><p>Be, following GV, supplies a supposed
+            missing line after 769: <hi rend="italic">His tail was totattered with tonges ful
+              huge</hi>; K notes but does not accept the insertion. H accepts. I have followed
+            K.</p></note>
+        <note type="tnote" n="23">771<space rend="indent1"/><p>Be, following GV, supplies a supposed
+            missing line after 771: <hi rend="italic">And his clawes were enclosed with clene
+              gold</hi>; K does not note. H accepts. I have not included the line.</p></note>
+        <note type="tnote" n="24">785<space rend="indent1"/><p><hi rend="italic">at</hi>. Be notes
+            MS <hi rend="italic">at</hi>, but prints <hi rend="italic">it</hi>. I have retained the
+            MS reading as do Br and K. H deletes the word, explaining that the scribe miscopied the
+            following <hi rend="italic">to</hi> which he then corrected by writing <hi rend="italic"
+              >to</hi> but failed to cross out the <hi rend="italic">at</hi>.</p></note>
+        <note type="tnote" n="25">804<space rend="indent1"/><p><hi rend="italic">thring</hi>. MS:
+              <hi rend="italic">brynge</hi>. Holthausen’s emendation, followed by Bj, Be, and K. H
+            suggests <hi rend="italic">breen</hi>, meaning “frighten, terrify.” See her note
+            discussing the problem. Br follows MS.</p></note>
+        <note type="tnote" n="26">812<space rend="indent1"/><p>Second half of 812 appears in the MS
+            as the second half of 813 and vice versa (Bj, Be). K and H disagree, but I have followed
+            Be.</p></note>
+        <note type="tnote" n="27">821<space rend="indent1"/><p><hi rend="italic">tattered</hi> (Bj,
+            Be, K, H). MS: <hi rend="italic">taschesesede</hi>. Br: <hi rend="italic"
+              >tachesesede</hi>.</p></note>
+        <note type="tnote" n="28">910<space rend="indent1"/><p><hi rend="italic">enarmed</hi>. Bj
+            and Be emend to <hi rend="italic">enamelled</hi>, but I have followed Br, K, and H in
+            retaining MS.</p></note>
+        <note type="tnote" n="29">946<space rend="indent1"/><p><hi rend="italic">them</hi>. MS: <hi
+              rend="italic">thus</hi>. Br, K, and H retain MS.</p></note>
+        <note type="tnote" n="30">1041<space rend="indent1"/><p><hi rend="italic">source</hi> (Bj,
+            Be). MS: <hi rend="italic">sowre</hi>. Br and K retain MS. H emends to <hi rend="italic"
+              >sowþe</hi>.</p></note>
+        <note type="tnote" n="31">1083<space rend="indent1"/><p><hi rend="italic">eyen-holes</hi>
+            (Bj, Be). MS: <hi rend="italic">hole eyghn</hi>. Br, K, and H retain MS.</p></note>
+        <note type="tnote" n="32">1123<space rend="indent1"/><p><hi rend="italic">genitals</hi> (Bj,
+            Br, Be, K, H). MS: <hi rend="italic">genitates</hi>.</p></note>
+        <note type="tnote" n="33">1142<space rend="indent1"/><p><hi rend="italic">buskes</hi>. Bj
+            and Be emend to <hi rend="italic">wild buskes</hi>, but I have followed Br and K in
+            retaining MS.</p></note>
+        <note type="tnote" n="34">1231<space rend="indent1"/><p><hi rend="italic">mene-while</hi>.
+            GV, Be, and H emend to <hi rend="italic">mete-while</hi>, but I have followed Br and K
+            in retaining MS even though the emendation is plausible.</p></note>
+        <note type="tnote" n="35">1248<space rend="indent1"/><p><hi rend="italic">frayes</hi> (Bj,
+            Be, K). MS: <hi rend="italic">fraisez</hi>. Br and H retain MS.</p></note>
+        <note type="tnote" n="36">1281<space rend="indent1"/><p><hi rend="italic">with</hi> (Bj, Be,
+            K, H). MS: <hi rend="italic">that with</hi>. Br follows MS.</p></note>
+        <note type="tnote" n="37">1302<space rend="indent1"/><p><hi rend="italic">worthy</hi> (Bj,
+            Be, K). MS: <hi rend="italic">worthethy</hi>. Br and H retain MS.</p></note>
+        <note type="tnote" n="38">1334<space rend="indent1"/><p>Appears in MS as line 1330 (Bj, Be,
+            H).</p></note>
+        <note type="tnote" n="39">1364<space rend="indent1"/><p><hi rend="italic">sable</hi> (Bj,
+            Be, K, H). MS: <hi rend="italic">salle</hi>. Br follows MS.</p></note>
+        <note type="tnote" n="40">1378<space rend="indent1"/><p><hi rend="italic">unabaist all</hi>.
+            Bj and Be emend to <hi rend="italic">all unabaist</hi>, but I have followed Br, K, and H
+            in retaining MS word order and have punctuated to make the grammatical relation
+            clear.</p></note>
+        <note type="tnote" n="41">1408<space rend="indent1"/><p><hi rend="italic">all</hi> (Bj, Be).
+            MS: <hi rend="italic">and</hi>; <hi rend="italic">Bedvere</hi> (Be, H). MS: <hi
+              rend="italic">Bedwyne</hi>. Br and K retain both MS readings. Perhaps a miswriting of
+              <hi rend="italic">Baldwin</hi>, who appears in lines 1606 and 2384.</p></note>
+        <note type="tnote" n="42">1427<space rend="indent1"/><p><hi rend="italic">redies</hi>. Be
+            emends to <hi rend="italic">relies</hi>, but I have followed Br, K, and H in retaining
+            MS.</p></note>
+        <note type="tnote" n="43">1436<space rend="indent1"/><p><hi rend="italic">stokes</hi>. Br
+            and Be emend to <hi rend="italic">strokes</hi>, but K notes that emendation is
+            unnecessary, citing <hi rend="italic">OED</hi>
+            <hi rend="italic">stoke</hi> sb2 (p. 182). H follows MS too.</p></note>
+        <note type="tnote" n="44">1466–67<space rend="indent1"/><p>Appear in MS in reverse order
+            (Be). I have followed K, H in retaining MS order.</p></note>
+        <note type="tnote" n="45">1503<space rend="indent1"/><p><hi rend="italic">not</hi> (Bj, Be).
+            MS: <hi rend="italic">now</hi>. Br, K, and H follow MS.</p></note>
+        <note type="tnote" n="46">1567<space rend="indent1"/><p><hi rend="italic">tithandes</hi>
+            (Bj, Be, H). MS: <hi rend="italic">thy?andez</hi>. Br and K retain MS spelling, as a
+            variant of <hi rend="italic">tydandis</hi>.</p></note>
+        <note type="tnote" n="47">1653<space rend="indent1"/><p><hi rend="italic">kith</hi> (Bj, Be,
+            K, H). MS: <hi rend="italic">lythe</hi>. Br retains MS but glosses: “Read <hi
+              rend="italic">Kythe</hi>.”</p></note>
+        <note type="tnote" n="48">1688<space rend="indent1"/><p><hi rend="italic">hufe</hi>. Bj and
+            Be emend to <hi rend="italic">leng</hi>, but I have followed Br, K, and H in retaining
+            MS.</p></note>
+        <note type="tnote" n="49">1690<space rend="indent1"/><p><hi rend="italic">crest</hi> (Bj,
+            Be, H). MS: <hi rend="italic">breste</hi> (Br, K).</p></note>
+        <note type="tnote" n="50">1698<space rend="indent1"/><p><hi rend="italic">Forthy</hi> (Be).
+            MS: <hi rend="italic">ffro the</hi>.</p></note>
+        <note type="tnote" n="51"><space rend="indent1"/><p><hi rend="italic">Brut</hi> (Bj, Be, H).
+            MS: <hi rend="italic">Borghte</hi> (Br, K).</p></note>
+        <note type="tnote" n="52">1732<space rend="indent1"/><p><hi rend="italic">on</hi>. Bj, Be,
+            and H emend to <hi rend="italic">on the</hi>, but I have followed Br and K in retaining
+            MS.</p></note>
+        <note type="tnote" n="53">1744<space rend="indent1"/><p><hi rend="italic">Wawayne</hi>. Bj,
+            Be, and H emend to <hi rend="italic">Bawdwyne</hi>, but I have followed Br and K in
+            retaining MS.</p></note>
+        <note type="tnote" n="54">1745<space rend="indent1"/><p><hi rend="italic">Rowlaundes</hi>
+            (Bj, Be, H). MS: <hi rend="italic">and Rowlandez</hi> (Br, K).</p></note>
+        <note type="tnote" n="55">1768<space rend="indent1"/><p><hi rend="italic">all on loud</hi>
+            (Bj, Be). MS: <hi rend="italic">o laundone</hi> (Br, K, H).</p></note>
+        <note type="tnote" n="56">1797<space rend="indent1"/><p><hi rend="italic">in his</hi> (Bj,
+            Be, K). MS: <hi rend="italic">his ine</hi> (Br). H argues that MS reads <hi
+              rend="italic">in his</hi>.</p></note>
+        <note type="tnote" n="57">1866<space rend="indent1"/><p><hi rend="italic">Cordewa</hi>. Be
+            and H emend to <hi rend="italic">Cornett</hi>, but I have followed Br and K in retaining
+            MS.</p></note>
+        <note type="tnote" n="58">1878<space rend="indent1"/><p><hi rend="italic">men</hi>. Bj, Be,
+            and H emend to <hi rend="italic">hethen men</hi>, but I have followed K in retaining
+            MS.</p></note>
+        <note type="tnote" n="59">1904<space rend="indent1"/><p><hi rend="italic">Utolf</hi> (Bj,
+            Be, K, H). MS: <hi rend="italic">Vtere</hi> (Br).</p></note>
+        <note type="tnote" n="60">1908<space rend="indent1"/><p><hi rend="italic">Carous</hi> (K,
+            H). MS: <hi rend="italic">Barous</hi>. Br emends to <hi rend="italic"
+          >Barouns</hi>.</p></note>
+        <note type="tnote" n="61">1911<space rend="indent1"/><p><hi rend="italic">Sarazenes
+              ynow</hi> (Bj, Be, K). MS: <hi rend="italic">sarazenes</hi>.</p></note>
+        <note type="tnote" n="62">1912<space rend="indent1"/><p><hi rend="italic">are</hi> (Bj, Be,
+            H). MS: <hi rend="italic">a</hi> (Br, K).</p></note>
+        <note type="tnote" n="63">1930<space rend="indent1"/><p><hi rend="italic">never berne</hi>
+            (Bj, Be). MS: <hi rend="italic">never</hi> (Br, K, H).</p></note>
+        <note type="tnote" n="64">1938<space rend="indent1"/><p><hi rend="italic">Though</hi> (Be).
+            MS: <hi rend="italic">Thofe</hi> (Br, K, H).</p></note>
+        <note type="tnote" n="65">1979<space rend="indent1"/><p><hi rend="italic">them</hi>. Bj and
+            Be emend to <hi rend="italic">then</hi>, but I have followed Br, K, and H in retaining
+            MS.</p></note>
+        <note type="tnote" n="66">1980<space rend="indent1"/><p><hi rend="italic">halfe</hi>. Bj and
+            Be emend to <hi rend="italic">side</hi>, but I have followed Br, K, and H in retaining
+            MS.</p></note>
+        <note type="tnote" n="67">1982<space rend="indent1"/><p><hi rend="italic">Wales</hi> (Bj,
+            Be, H). MS: <hi rend="italic">Vyleris</hi> (Br, K).</p></note>
+        <note type="tnote" n="68">2016<space rend="indent1"/><p><hi rend="italic">sees</hi>. Bj and
+            Be emend to <hi rend="italic">him sees</hi>, but I have followed Br, K, and H in
+            retaining MS.</p></note>
+        <note type="tnote" n="69">2108<space rend="indent1"/><p><hi rend="italic">hethe</hi> (Bj,
+            Be, K). MS: <hi rend="italic">heyghe</hi> (Br, H).</p></note>
+        <note type="tnote" n="70">2112<space rend="indent1"/><p><hi rend="italic">Jonathal</hi> (OL,
+            Be, H, K). MS: <hi rend="italic">Ienitall</hi> (Br). Jonathal appears in a corresponding
+            passage in Geoffrey of Monmouth.</p></note>
+        <note type="tnote" n="71">2151<space rend="indent1"/><p><hi rend="italic">on folde</hi> (Bj,
+            Be, K). MS: <hi rend="italic">fygured folde</hi> (Br). H emends to <hi rend="italic"
+              >faireste-fygured felde</hi>.</p></note>
+        <note type="tnote" n="72">2157<space rend="indent1"/><p><hi rend="italic">Sir Cleremond the
+              noble</hi> (Bj, K). MS: <hi rend="italic">with clene mene of armes</hi> (Br). Be, H
+            have <hi rend="italic">Sir Bedvere the rich</hi>, but <hi rend="italic">Cleremond the
+              noble</hi> is as familiar a formula and improves the alliteration.</p></note>
+        <note type="tnote" n="73">2180<space rend="indent1"/><p><hi rend="italic">real renk</hi>
+            (Bj, Be, H). MS: <hi rend="italic">reall</hi> (K). Br reads <hi rend="italic"
+              >ryalle</hi>. The addition of <hi rend="italic">renk</hi> so much improves both rhythm
+            and alliteration that a scribal omission seems likely.</p></note>
+        <note type="tnote" n="74">2181<space rend="indent1"/><p><hi rend="italic">he</hi> (K). MS:
+              <hi rend="italic">and</hi> (Br, H).</p></note>
+        <note type="tnote" n="75">2198<space rend="indent1"/><p><hi rend="italic">into</hi>. Bj, Be,
+            and H emend to <hi rend="italic">into the</hi>, but I have followed Br and K in
+            retaining MS.</p></note>
+        <note type="tnote" n="76">2217<space rend="indent1"/><p><hi rend="italic">chis</hi>. Bj, Be,
+            and H emend to <hi rend="italic">thriches</hi>, but I have followed Br and K in
+            retaining MS.</p></note>
+        <note type="tnote" n="77">2250<space rend="indent1"/><p><hi rend="italic">at</hi>. Bj, Be,
+            and H emend to <hi rend="italic">all</hi>, but I have followed Br and K in retaining
+            MS.</p></note>
+        <note type="tnote" n="78">2280<space rend="indent1"/><p><hi rend="italic">lighte</hi>. Bj
+            and Be emend to <hi rend="italic">lithe</hi>, but I have followed Br, K, and H in
+            retaining MS.</p></note>
+        <note type="tnote" n="79">2283<space rend="indent1"/><p><hi rend="italic">cokadrisses</hi>
+            (Be, K, H). MS: <hi rend="italic">sekadrisses</hi> (Br).</p></note>
+        <note type="tnote" n="80">2286<space rend="indent1"/><p><hi rend="italic">dromedaries
+              of</hi> (Bj, Be, H). MS: <hi rend="italic">of dromondaries</hi> (Br).</p></note>
+        <note type="tnote" n="81">2288<space rend="indent1"/><p><hi rend="italic">Olfendes</hi> (Bj,
+            Be, K). MS: <hi rend="italic">elfaydes</hi> (Br, H).</p></note>
+        <note type="tnote" n="82">2305<space rend="indent1"/><p><hi rend="italic">he lenged</hi>
+            (Br, Be, K, H). MS: <hi rend="italic">lengede</hi>.</p></note>
+        <note type="tnote" n="83">2328<space rend="indent1"/><p><hi rend="italic">ne</hi>. Bj, Be,
+            and H emend to <hi rend="italic">we ne</hi>, but I have followed Br and K in retaining
+            MS.</p></note>
+        <note type="tnote" n="84">2343<space rend="indent1"/><p><hi rend="italic">full monee</hi>.
+            Bj and Be emend to <hi rend="italic">full of the monee</hi>, but I have followed Br and
+            K in retaining MS.</p></note>
+        <note type="tnote" n="85">2358<space rend="indent1"/><p>Br, Bj, Be, and H all emend MS <hi
+              rend="italic">fowre</hi> to <hi rend="italic">ten</hi>. “However, though the messenger
+            is presumably referring in 2358 to the tribute that Arthur’s court owed and had not paid
+            for four score winters, Arthur in 2344 is referring to something else — the tribute from
+            Rome to his own kingdom that was lost in his ancestors’ days” (K, 187).</p></note>
+        <note type="tnote" n="86">2386<space rend="indent1"/><p><hi rend="italic">the Auguste</hi>.
+            OL, Be, and H emend to <hi rend="italic">Auguste</hi>, but I have followed Br and K in
+            retaining MS.</p></note>
+        <note type="tnote" n="87">2398<space rend="indent1"/><p><hi rend="italic">Lorraine the
+              lele</hi>. Bj and Be emend to <hi rend="italic">of Lorraine the lege</hi>, but I have
+            followed Br, K, and H in retaining MS.</p></note>
+        <note type="tnote" n="88">2403<space rend="indent1"/><p><hi rend="italic">to</hi> (K). MS:
+              <hi rend="italic">and</hi>.</p></note>
+        <note type="tnote" n="89">2408<space rend="indent1"/><p><hi rend="italic">Tuskan</hi> (Ba,
+            Be, K, H). MS: <hi rend="italic">Turkayne</hi> (Br).</p></note>
+        <note type="tnote" n="90">2418<space rend="indent1"/><p><hi rend="italic">is in</hi> (Bj,
+            Be, K, H). MS: <hi rend="italic">es</hi> (Br).</p></note>
+        <note type="tnote" n="91">2419<space rend="indent1"/><p><hi rend="italic">Citee</hi> (Br,
+            Be, K, H). MS: <hi rend="italic">Pety</hi>.</p></note>
+        <note type="tnote" n="92">2424<space rend="indent1"/><p>Br, Be, and H note MS <hi
+              rend="italic">beneyde: bended</hi> (Bj). K emends to <hi rend="italic"
+            >bendyde</hi>.</p></note>
+        <note type="tnote" n="93">2438<space rend="indent1"/><p><hi rend="italic">ferde</hi>. Bj and
+            Be emend to <hi rend="italic">rade</hi>, but I have followed K and H in retaining
+            MS.</p></note>
+        <note type="tnote" n="94">2478<space rend="indent1"/><p><hi rend="italic">plattes</hi>. Bj
+            and Be emend to <hi rend="italic">plantes</hi>, but I have followed K in retaining
+            MS.</p></note>
+        <note type="tnote" n="95">2495<space rend="indent1"/><p><hi rend="italic">Wecharde</hi>. Be
+            emends to <hi rend="italic">Wicher</hi>, but I have followed K in retaining
+          MS.</p></note>
+        <note type="tnote" n="96">2519<space rend="indent1"/><p><hi rend="italic">withouten any
+              berne</hi> (Bj, Be, K, H). MS: <hi rend="italic">with birenne ony
+          borne</hi>.</p></note>
+        <note type="tnote" n="97">2521<space rend="indent1"/><p><hi rend="italic">gessenande</hi>.
+            Be and H emend to <hi rend="italic">glessenand</hi>, but I have followed K. Instead of
+            glistening in gold the sable (black) grayhounds are lying couchant.</p></note>
+        <note type="tnote" n="98">2522<space rend="indent1"/><p><hi rend="italic">and</hi> (Bj, Be,
+            K, H). MS: <hi rend="italic">a</hi> (Br).</p></note>
+        <note type="tnote" n="99">2531<space rend="indent1"/><p><hi rend="italic">the lange</hi>
+            (Bj, Be, H). MS: <hi rend="italic">a launde</hi> (Br, K).</p></note>
+        <note type="tnote" n="100">2568<space rend="indent1"/><p><hi rend="italic">vailed</hi> (K).
+            MS: <hi rend="italic">vrayllede</hi> (Br). Bj and Be emend to <hi rend="italic"
+              >railed</hi>.</p></note>
+        <note type="tnote" n="101">2588<space rend="indent1"/><p>Be follows GV suggestion to insert
+            two lines to follow 2588: <hi rend="italic">That I might be cristened, with crisom
+              annointed, / Become meek for my misdeeds for meed of my soul</hi>.</p></note>
+        <note type="tnote" n="102">2594<space rend="indent1"/><p><hi rend="italic">legeaunce and
+              land</hi> (OL, Be). MS: <hi rend="italic">legyaunce</hi> (Br, K). H emends to <hi
+              rend="italic">undir what legyaunce</hi>.</p></note>
+        <note type="tnote" n="103">2663<space rend="indent1"/><p>Be, following GV, inserts the
+            following after 2663: <hi rend="italic">For here hoves at thy hand an hundreth good
+              knightes</hi>. H agrees, but I have followed Br and K in omitting the line.</p></note>
+        <note type="tnote" n="104">2664<space rend="indent1"/><p><hi rend="italic">For they
+            are</hi>. Be emends to <hi rend="italic">they are</hi>, but I have followed Br, K, and H
+            in retaining MS.</p></note>
+        <note type="tnote" n="105">2675<space rend="indent1"/><p><hi rend="italic">slight</hi> (Bj,
+            Be, K). MS: <hi rend="italic">slaughte</hi>. H emends to <hi rend="italic">a
+              slaughte</hi>.</p></note>
+        <note type="tnote" n="106">2680<space rend="indent1"/><p><hi rend="italic">Wecharde</hi>
+            (K). MS: <hi rend="italic">Wychere</hi>.</p></note>
+        <note type="tnote" n="107">2771<space rend="indent1"/><p><hi rend="italic">breth</hi> (Bj,
+            Be, H). MS: <hi rend="italic">breste</hi> (Br, K).</p></note>
+        <note type="tnote" n="108">2797<space rend="indent1"/><p><hi rend="italic">and</hi> (Bj, Be,
+            H). MS: <hi rend="italic">a</hi> (Br, K).</p></note>
+        <note type="tnote" n="109">2854<space rend="indent1"/><p><hi rend="italic">Though</hi> (Bj,
+            Be). MS: <hi rend="italic">Thofe</hi> (Br, K, H).</p></note>
+        <note type="tnote" n="110">2890<space rend="indent1"/><p><hi rend="italic">Gerard</hi> (Bj,
+            Be, H). MS: <hi rend="italic">Ierante</hi> (Br, K).</p></note>
+        <note type="tnote" n="111">2908<space rend="indent1"/><p><hi rend="italic">Giauntes</hi>. Bj
+            and Be emend to <hi rend="italic">giauntes are</hi>, but I have followed Br, K, and H in
+            retaining MS.</p></note>
+        <note type="tnote" n="112">2940<space rend="indent1"/><p><hi rend="italic">duke dresses</hi>
+            (Bj, Be, H). MS: <hi rend="italic">duke</hi> (Br, K).</p></note>
+        <note type="tnote" n="113">2950<space rend="indent1"/><p><hi rend="italic">Marches</hi>. MS:
+              <hi rend="italic">maches</hi> (Br). Be emends to <hi rend="italic">matchless</hi>, but
+            I have followed K and H.</p></note>
+        <note type="tnote" n="114">2977<space rend="indent1"/><p><hi rend="italic">sleghte</hi> (Bj,
+            Be, K, H). MS: <hi rend="italic">elagere</hi> (Br).</p></note>
+        <note type="tnote" n="115">3013<space rend="indent1"/><p><hi rend="italic">at heste</hi>
+            (Bj, Be, H). MS: <hi rend="italic">the beste</hi> (Br, K).</p></note>
+        <note type="tnote" n="116">3057<space rend="indent1"/><p><hi rend="italic">none</hi> (GV,
+            Be, H). MS: <hi rend="italic">no</hi> (Br, K).</p></note>
+        <note type="tnote" n="117">3061<space rend="indent1"/><p><hi rend="italic">be deemed</hi>
+            (Bj, Be, K). MS: <hi rend="italic">idene the</hi> (Br). H emends to <hi rend="italic"
+              >indeue the</hi>, meaning “endow you” or “provide you with a livelihood.”</p></note>
+        <note type="tnote" n="118">3064<space rend="indent1"/><p><hi rend="italic">he</hi>. Bj and
+            Be emend to <hi rend="italic">sho</hi>, but I have followed K and H in retaining
+          MS.</p></note>
+        <note type="tnote" n="119">3067<space rend="indent1"/><p>MS lines 3068–3083 are moved by Be
+            to become lines 3112–3127. Although H agrees with Be, I have followed K in leaving them
+            in their MS position.</p></note>
+        <note type="tnote" n="120">3074<space rend="indent1"/><p><hi rend="italic">knighte</hi>. GV,
+            H, and Be emend to <hi rend="italic">king</hi>, but I have followed Br and K in
+            retaining MS.</p></note>
+        <note type="tnote" n="121">3117<space rend="indent1"/><p><hi rend="italic">Slely</hi>. MS:
+              <hi rend="italic">slal</hi> (Br). Bj and Be emend to <hi rend="italic">skathel</hi>,
+            but I have followed K.</p></note>
+        <note type="tnote" n="122">3140<space rend="indent1"/><p><hi rend="italic">for Pawnce and
+              for</hi> (Bj, Be, H, K). MS: <hi rend="italic">of Pawnce and of</hi>.</p></note>
+        <note type="tnote" n="123">3150<space rend="indent1"/><p><hi rend="italic">thus wele
+              timed</hi>. GV and Be emend to <hi rend="italic">him time semed</hi>, but I have
+            followed Br, K, and H in retaining MS.</p></note>
+        <note type="tnote" n="124">3186<space rend="indent1"/><p><hi rend="italic">sceptre and
+              swerde</hi>. MS: <hi rend="italic">his ceptre</hi> (Br). Be emends to <hi
+              rend="italic">sceptre, for sooth</hi>, but I have followed K. H emends to <hi
+              rend="italic">ceptre forsothe</hi>.</p></note>
+        <note type="tnote" n="125">3209<space rend="indent1"/><p><hi rend="italic">honden</hi>. Bj
+            and Be emend to <hi rend="italic">holde</hi>, but I have followed K in retaining MS. H
+            emends to <hi rend="italic">honouren</hi>.</p></note>
+        <note type="tnote" n="126">3220<space rend="indent1"/><p><hi rend="italic">slakes his</hi>
+            (Bj, Be). MS: <hi rend="italic">slakes</hi> (Br, H, K).</p></note>
+        <note type="tnote" n="127">3241<space rend="indent1"/><p><hi rend="italic">clerewort</hi>.
+            Bj and Be emend to <hi rend="italic">clevewort</hi>, but I have followed Br, K, and H in
+            retaining MS.</p></note>
+        <note type="tnote" n="128">3256<space rend="indent1"/><p><hi rend="italic">With
+              brouches</hi> (Bj, Be, H). MS: <hi rend="italic">bruches</hi> (Br, K).</p></note>
+        <note type="tnote" n="129">3257<space rend="indent1"/><p><hi rend="italic">Her back</hi>
+            (Bj, Be, H). MS: <hi rend="italic">With hir bake</hi> (Br, K).</p></note>
+        <note type="tnote" n="130">3263<space rend="indent1"/><p><hi rend="italic">riches</hi> (Bj,
+            Be, K). MS: <hi rend="italic">reched</hi> (Br), but K thinks MS may read <hi
+              rend="italic">reches</hi> anyway.</p></note>
+        <note type="tnote" n="131">3272<space rend="indent1"/><p><hi rend="italic">this</hi> (Bj,
+            Be). MS: <hi rend="italic">thir</hi> (Br, K). H reads <hi rend="italic"
+          >thi</hi>.</p></note>
+        <note type="tnote" n="132"><space rend="indent1"/><p><hi rend="italic">roo</hi> (Bj, Be, K).
+            MS: <hi rend="italic">rog</hi> (Br, H).</p></note>
+        <note type="tnote" n="133">3282<space rend="indent1"/><p><hi rend="italic">tone eye</hi>
+            (Bj, Be, K, H). MS: <hi rend="italic">two eyne</hi> (Br).</p></note>
+        <note type="tnote" n="134">3308<space rend="indent1"/><p><hi rend="italic">folded</hi> (Bj,
+            Be, K). MS: <hi rend="italic">fayled</hi> (Br). H emends to <hi rend="italic">falded
+              in</hi>.</p></note>
+        <note type="tnote" n="135">3352<space rend="indent1"/><p><hi rend="italic">crispand</hi>
+            (Bj, Be, H). MS: <hi rend="italic">krispane</hi> (Br, K).</p></note>
+        <note type="tnote" n="136">3356<space rend="indent1"/><p><hi rend="italic">Circled</hi> (Bj,
+            Be, K, H). MS: <hi rend="italic">Selkylde</hi> (Br).</p></note>
+        <note type="tnote" n="137">3422<space rend="indent1"/><p><hi rend="italic">tone climand
+              king</hi> (Bj, Be, H). MS: <hi rend="italic">two clymbande kynges</hi>.</p></note>
+        <note type="tnote" n="138">3427<space rend="indent1"/><p><hi rend="italic">lifelich</hi>. Bj
+            and Be emend to <hi rend="italic">loveliche</hi>, but I have followed Br, K, and H in
+            retaining MS.</p></note>
+        <note type="tnote" n="139">3439<space rend="indent1"/><p><hi rend="italic">ninde</hi> (Bj,
+            Be). Ms: <hi rend="italic">nynne</hi> (Br, K, H).</p></note>
+        <note type="tnote" n="140">3474<space rend="indent1"/><p><hi rend="italic">slawin</hi>. Bj
+            and Be emend to <hi rend="italic">sclavin</hi> (“pilgrim’s garb”), but I have followed
+            Br, K, and H in retaining MS.</p></note>
+        <note type="tnote" n="141">3480<space rend="indent1"/><p><hi rend="italic">wathe</hi> (Bj,
+            Be, H). MS: <hi rend="italic">wawthe</hi> (Br, K).</p></note>
+        <note type="tnote" n="142">3505<space rend="indent1"/><p>Be reverses 3505 and 3506, but I
+            have followed Br, K, and H in retaining MS.</p></note>
+        <note type="tnote" n="143">3510<space rend="indent1"/><p><hi rend="italic">I</hi>. Bj and Be
+            emend to <hi rend="italic">I was</hi>, but I have followed K and H in retaining
+          MS.</p></note>
+        <note type="tnote" n="144">3530<space rend="indent1"/><p><hi rend="italic">Of</hi> (Bj, Be).
+            MS: <hi rend="italic">To</hi> (Br, K, H).</p></note>
+        <note type="tnote" n="145">3592<space rend="indent1"/><p><hi rend="italic">trome</hi>. Bj,
+            Be, and H emend to <hi rend="italic">trumpe</hi>, but I have followed Br and K in
+            retaining MS.</p></note>
+        <note type="tnote" n="146">3605<space rend="indent1"/><p>Lines 3605 and 3606 appear in
+            reverse order in the MS (Be).</p></note>
+        <note type="tnote" n="147">3662<space rend="indent1"/><p><hi rend="italic">Wether</hi> (Be).
+            MS: <hi rend="italic">With hir</hi> (Br, K, H).</p></note>
+        <note type="tnote" n="148">3672<space rend="indent1"/><p><hi rend="italic">bernes</hi> (Bj,
+            Be). MS: <hi rend="italic">braynes</hi> (Br, K). H reads <hi rend="italic"
+            >berynes</hi>.</p></note>
+        <note type="tnote" n="149">3675<space rend="indent1"/><p><hi rend="italic">Up ties</hi> (Be,
+            K, H). MS: <hi rend="italic">Vpcynes</hi> (Br).</p></note>
+        <note type="tnote" n="150">3678<space rend="indent1"/><p><hi rend="italic">Many freke</hi>
+            (Bj, Be). MS: <hi rend="italic">ffreke</hi> (Br, K, H).</p></note>
+        <note type="tnote" n="151">3684<space rend="indent1"/><p><hi rend="italic">englaimes</hi>
+            (Bj, Be, K, H). MS: <hi rend="italic">englaymous</hi> (Br).</p></note>
+        <note type="tnote" n="152">3720<space rend="indent1"/><p><hi rend="italic">in</hi> (Be, K).
+            MS: <hi rend="italic">and</hi> (Br, H).</p></note>
+        <note type="tnote" n="153">3796<space rend="indent1"/><p><hi rend="italic">help</hi>. Be
+            emends to <hi rend="italic">help me</hi>, but I have followed Br, K, and H in retaining
+            MS.</p></note>
+        <note type="tnote" n="154">3797<space rend="indent1"/><p><hi rend="italic">to see us</hi>
+            (Br, Be, K, H). MS: <hi rend="italic">to us</hi>.</p></note>
+        <note type="tnote" n="155">3864<space rend="indent1"/><p><hi rend="italic">Fres</hi>. Bj and
+            Be emend to <hi rend="italic">Frisland</hi>, but I have followed Br, K, and H in
+            retaining MS.</p></note>
+        <note type="tnote" n="156">3911<space rend="indent1"/><p><hi rend="italic">yeyes</hi> (Bj,
+            Be, H, K). MS: <hi rend="italic">?ee</hi> (Br).</p></note>
+        <note type="tnote" n="157">3924<space rend="indent1"/><p><hi rend="italic">Swalters</hi>. Bj
+            and Be emend to <hi rend="italic">swafres</hi>, but I have followed Br, K, and H in
+            retaining MS.</p></note>
+        <note type="tnote" n="158">3929<space rend="indent1"/><p><hi rend="italic">trewth</hi> (Bj,
+            Be, H). MS: <hi rend="italic">trewghe</hi> (Br, K).</p></note>
+        <note type="tnote" n="159">3937<space rend="indent1"/><p>It is unclear whether the MS reads
+              <hi rend="italic">Guthede</hi> or <hi rend="italic">Guchede</hi>. The former makes
+            more sense.</p></note>
+        <note type="tnote" n="160">3942<space rend="indent1"/><p><hi rend="italic">encircled</hi>
+            (Bj, Be, K, H). MS: <hi rend="italic">enserchede</hi> (Br).</p></note>
+        <note type="tnote" n="161">3996<space rend="indent1"/><p><hi rend="italic">kithe</hi> (Bj,
+            Be, H). MS: <hi rend="italic">kyghte</hi> (Br, K).</p></note>
+        <note type="tnote" n="162">4010<space rend="indent1"/><p><hi rend="italic">Carried it</hi>
+            (Br, Be, H). MS: <hi rend="italic">Karyed</hi> (Br, K).</p></note>
+        <note type="tnote" n="163">4017<space rend="indent1"/><p><hi rend="italic">Don for him</hi>
+            (Bj, Be). MS: <hi rend="italic">Done for</hi> (Br, K, H).</p></note>
+        <note type="tnote" n="164">4020<space rend="indent1"/><p><hi rend="italic">erthe</hi>. Bj,
+            Be, and H emend to <hi rend="italic">bere</hi>, but I have followed Br and K in
+            retaining MS.</p></note>
+        <note type="tnote" n="165">4129<space rend="indent1"/><p><hi rend="italic">sere</hi>. Bj and
+            Be emend to <hi rend="italic">fele</hi>, but I have followed Br, K, and H in retaining
+            MS.</p></note>
+        <note type="tnote" n="166">4157<space rend="indent1"/><p><hi rend="italic">Why then ne</hi>
+            (Be). MS: <hi rend="italic">Qwythen</hi>. K explains that an emendation may not really
+            be necessary since the <hi rend="italic">OED</hi> glosses the MS word in the same words
+            as the emendation.</p></note>
+        <note type="tnote" n="167">4181<space rend="indent1"/><p><hi rend="italic">churles</hi>. OL
+            and Be emend to <hi rend="italic">churlish</hi>, but I have followed Br, K, and H in
+            retaining MS. Mordred adopts the cowardly stratagem of changing his heraldic devices,
+            which Arthur would never do (see note on line 3650).</p></note>
+        <note type="tnote" n="168">4221<space rend="indent1"/><p><hi rend="italic">and in</hi> (Br,
+            Be, K, H). MS: <hi rend="italic">and</hi>.</p></note>
+        <note type="tnote" n="169">4223<space rend="indent1"/><p><hi rend="italic">he ne</hi> (Br,
+            Be, K, H). MS: <hi rend="italic">ne he</hi>.</p></note>
+        <note type="tnote" n="170">4305<space rend="indent1"/><p><hi rend="italic">day</hi>. Be
+            emends to <hi rend="italic">dayes</hi>, but I have followed Br, K, and H in retaining
+            MS.</p></note>
+        <note type="tnote" n="171">4343<space rend="indent1"/><p><hi rend="italic">blude</hi>. Bj
+            and Be emend to <hi rend="italic">kin</hi>, but I have followed Br, K, and H in
+            retaining MS.</p></note>
+      </div>
+    </body>
+  </text>
+</TEI>

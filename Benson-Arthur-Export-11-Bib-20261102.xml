@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" version="3.3.0" xml:id="Benson-Arthur-Export-11-Bib-tei">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Bibliography</title>
+        <author>Benson, Larry D.</author>
+        <author>Foster, Edward E.</author>
+        <sponsor>The University of Rochester</sponsor>
+        <sponsor>TEAMS: Teaching Association for Medieval Studies</sponsor>
+        <funder>National Endowment for the Humanities</funder>
+        <funder>The University of Rochester</funder>
+        <funder>TEAMS: Teaching Association for Medieval Studies</funder>
+        <respStmt>
+          <persName>Castleberry, Kristi J.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Conrath, Ryan</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Delcourt, Steffi</persName>
+          <resp from="2025-12" to="2026-01">Audited documents prior to print/export</resp>
+          <resp from="2026-08" to="2026-08">Collected metadata</resp>
+          <resp from="2026-06" to="2026-06">Copyedited and proofread</resp>
+          <resp from="2026-06" to="2026-06">Entered corrections for digital edition</resp>
+          <resp from="2026-06" to="2026-06">Formatted for XML export</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Johnson-Olin, Martha M.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Kephart, Daniel</persName>
+          <resp from="2023-11" to="2023-11">Collected metadata</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lupack, Alan</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>McShane, Kara L.</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Peck, Russell A.</persName>
+          <resp>Copyedited and proofread</resp>
+          <resp>Ensured adherence to METS Style Guide</resp>
+          <resp>Reviewed edition for consistency and audience</resp>
+          <resp>Reviewed edition for content and scholarship</resp>
+          <resp>Wrote reader report</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Roth, Aaron</persName>
+          <resp>Entered corrections for digital edition</resp>
+          <resp>Uploaded / Published digital edition</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Saupe, Karen</persName>
+          <resp>Prepared edition for publication</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Yee, Pamela M.</persName>
+          <resp from="2026-09" to="2026-11">Audited documents prior to print/export</resp>
+          <resp from="2026-10" to="2026-10">Collected metadata</resp>
+          <resp>Entered corrections for digital edition</resp>
+          <resp from="2026-11" to="2026-11">Uploaded / Published digital edition</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Encoded in TEI in 2026.</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>The Rossell Hope Robbins Library, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <publisher>The Department of English, University of Rochester</publisher>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.sas.rochester.edu/eng/</addrLine>
+        </address>
+        <publisher>TEAMS: Teaching Association for Medieval Studies</publisher>
+        <address>
+          <addrLine>https://teams-medieval.org/about/</addrLine>
+        </address>
+        <distributor>The Rossell Hope Robbins Library, University of Rochester</distributor>
+        <pubPlace>Rochester, NY</pubPlace>
+        <address>
+          <addrLine>https://www.library.rochester.edu/spaces/robbins</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Downloading shall be restricted to one copy for private use.</p>
+        </availability>
+        <date/>
+      </publicationStmt>
+      <seriesStmt>
+        <title level="s">The Middle English Text Series</title>
+        <respStmt>
+          <persName>Rita Copeland</persName>
+          <orgName>University of Minnesota</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas G. Hahn</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Lisa J. Kiser</persName>
+          <orgName>Ohio State University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Alan Lupack</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>Associate Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Russell A. Peck</persName>
+          <orgName>University of Rochester</orgName>
+          <resp>General Editor, Editorial Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Thomas H. Seiler</persName>
+          <orgName>Western Michigan University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>R. A. Shoaf</persName>
+          <orgName>University of Florida</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+        <respStmt>
+          <persName>Bonnie Wheeler</persName>
+          <orgName>Southern Methodist University</orgName>
+          <resp>Member, Advisory Board</resp>
+        </respStmt>
+      </seriesStmt>
+      <sourceDesc>
+        <biblStruct>
+          <monogr>
+            <author>Unknown</author>
+            <editor>Benson, Larry D.</editor>
+            <editor>Foster, Edward E.</editor>
+            <title>King Arthur's Death: The Middle English Stanzaic Morte Arthur and Alliterative
+              Morte Arthure</title>
+            <imprint>
+              <publisher>Medieval Institute Publications</publisher>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <date>1994</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>The Middle English Texts Series offers a diverse and representative array of literary
+          texts that medieval readers in the present-day British Isles would have encountered
+          between the twelfth and sixteenth centuries. It is committed to making available both
+          affordable print and open access editions to scholars, teachers, and students of the
+          Western Middle Ages. In its digital publications, the series prioritizes a user-friendly
+          interface and viewing options, multiple downloadable formats, enhanced searchability and
+          filtering, and accessibility to the widest possible range of users.</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>METS takes as its mission the creation of affordable editions that would pass scrutiny
+          from the most demanding expert, yet would prove comprehensible, and even enticing, to
+          someone who had never read Middle English before. This agenda dictates that METS
+          publications offer not a critical edition reflecting all surviving manuscripts, and
+          certainly not a diplomatic edition, but a best-text edition, informed by the notes and
+          apparatus of earlier editions (where these exist), and by substantive variants from other
+          manuscript witnesses. Transcriptions of Middle English texts are lightly modernized to
+          ensure a smooth reading experience, while non-English texts preserve both the original
+          language and a modern English translation in facing-page format. Each edition offers
+          expert assistance with language and lexicon, providing glosses alongside the text(s),
+          textual and explanatory notes, elucidation of unfamiliar contexts and traditions, and
+          thematic and interpretive possibilities. All editions feature general introductions that
+          set the edited text within its own time, place, and traditions, and link it to ancestor,
+          congener, and successor materials. All publications contain comprehensive, current
+          bibliographies of pertinent scholarship and criticism. House style is adapted from the <hi
+            rend="italic">Chicago Manual of Style</hi>.</p>
+        <correction>
+          <p>This text may include corrections made after the original edition went to press in
+            order to correct errors and improve glosses. For a full list of editorial and
+            typographical corrections made to this edition, please view its correction log on
+            Github:
+            https://github.com/mets-editions/benson-arthur/blob/main/benson-arthur-export-corrections-log.xlsx</p>
+        </correction>
+      </editorialDecl>
+      <schemaRef url="https://metseditions.org/schema/mets-editions.xsd"/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="en">English, Modern (1500-present)</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change>First edited by Larry Benson and published by Bobbs-Merrill in 1974</change>
+      <change>Revised by Edward Foster and published by METS in 1994</change>
+      <change>Encoded in HTML</change>
+      <change>Entered editorial corrections in 2025 and 2026</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body xmlns="http://www.tei-c.org/ns/1.0">
+      <anchor xml:id="Benson-Arthur-Export-11-Bib"/>
+      <div type="text">
+        <p style="heading4"><hi rend="italic">Stanzaic Morte Arthur</hi></p>
+        <p style="heading2">Manuscript</p>
+        <listBibl>
+          <bibl>Harley 2252, fols. 86a–133b; late fourteenth century. (British Library)</bibl>
+        </listBibl>
+        <p style="heading2">Editions</p>
+        <listBibl>
+          <bibl><hi rend="italic">Le Morte Arthur, The Adventures of Sir Launcelot du Lake</hi>. Ed.
+            Thomas Ponton. London: William Bulmer and Company, 1819.</bibl>
+          <bibl><hi rend="italic">Le Morte Arthur</hi>. Ed. F. J. Furnivall. With prefatory essay by
+            Herbert Coleridge. London and Cambridge: Macmillan and Company, 1864. [Dedicated to
+            Alfred Tennyson. Not printed in stanzas.]</bibl>
+          <bibl><hi rend="italic">Le Morte Arthure</hi>. Ed. J. Douglas Bruce. EETS e.s. 88. London,
+            New York, Toronto: Oxford University Press, 1903. Rpt. Millwood, N.Y.: Kraus, 1973.
+            [This edition is the basis for most subsequent editions.]</bibl>
+          <bibl><hi rend="italic">Le Morte Arthur</hi>. Ed. S. B. Hemingway. New York: Riverside
+            Press, 1912. [Differs little from Bruce; fuller notes.]</bibl>
+          <bibl><hi rend="italic">Le Morte Arthur: A Critical Edition</hi>. Ed. P. F. Hissiger. The
+            Hague, Paris: Mouton, 1975. [The text differs little from Bruce and Hemingway; notes are
+            scanty.]</bibl>
+          <bibl><hi rend="italic">Le Morte Arthur</hi>. Ed. Shunichi Noguchi. Centre for Mediaeval
+            English Studies. Tokyo: University of Tokyo, 1990.</bibl>
+        </listBibl>
+        <p style="heading2">Translation</p>
+        <listBibl>
+          <bibl>Kahn, Sharon. <hi rend="italic">The Stanzaic Morte: A Verse Translation of Le Morte
+              Arthur</hi>. Lanham: University Press of America, 1986.</bibl>
+        </listBibl>
+        <p style="heading2">Criticism</p>
+        <listBibl>
+          <bibl>Alexander, Flora M. “‘The Treason of Lancelote du Lake’: Irony in the Stanzaic <hi
+              rend="italic">Morte Arthur</hi>.” In P. B. Grout and others, eds., <hi rend="italic"
+              >The Legend of Arthur in the Middle Ages</hi>. Arthurian Studies 7. Cambridge: D. S.
+            Brewer, 1983. Pp. 15–27, 227–28. [A discussion of the ironies that create detachment in
+            preparation for the burial of Guinevere with Arthur at Glastonbury.]</bibl>
+          <bibl>Beston, John B., and Rose Marie Beston. “The Parting of Lancelot and Guinevere in
+            the Stanzaic Le Morte Arthur.” <hi rend="italic">Journal of the Australasian
+              Universities Language and Literature Association</hi> 40 (1973), 249–59.</bibl>
+          <bibl>Edwards, A. S. G. “Stanzaic Morte Arthur, line 3651.” <hi rend="italic">Notes and
+              Queries</hi> 41 (1994), 14–15.</bibl>
+          <bibl>Jaech, Sharon L. Jansen. “The Parting of Lancelot and Gaynor: The Effect of
+            Repetition in the Stanzaic <hi rend="italic">Morte Arthur</hi>.” <hi rend="italic"
+              >Interpretations</hi> 15 (1984), 59–69. [Examines the parting of Lancelot and
+            Guinevere as a means of unifying themes in the poem primarily through
+            repetition.]</bibl>
+          <bibl>Knopp, Sherron E. “Artistic Design in the Stanzaic <hi rend="italic">Morte
+              Arthur</hi>.” <hi rend="italic">ELH</hi> 45 (1978), 563–82. [Argues the structural
+            coherence of the poem.]</bibl>
+          <bibl>Twomey, Michael. “A Note on Detachment in the Stanzaic ‘Morte Arthur.’” <hi
+              rend="italic">Bulletin Bibliographique de la Societe Internationale Arthurienne</hi>
+            26 (1974), 206–07.</bibl>
+          <bibl>Wertime, Richard A. “The Theme and Structure of the Stanzaic <hi rend="italic">Morte
+              Arthur</hi>.” <hi rend="italic">PMLA</hi> 87 (1972), 1075–82. [Defends the poem’s
+            coherence and seriousness of purpose.]</bibl>
+        </listBibl>
+        <p style="heading4"><hi rend="italic">Alliterative Morte Arthure</hi></p>
+        <p style="heading2">Manuscript</p>
+        <listBibl>
+          <bibl>Lincoln Cathedral 91 (Thornton Manuscript), fols. 53a–98b; c. 1440. (Lincoln
+            Cathedral Library)</bibl>
+        </listBibl>
+        <p style="heading2">Editions</p>
+        <listBibl>
+          <bibl><hi rend="italic">Morte Arthure</hi>, <hi rend="italic">or The Death of Arthur</hi>.
+            Ed. Edmund Brock. EETS o.s. 8. New York, London, Toronto: Oxford University Press, 1871;
+            rpt. 1961. [Very close to the manuscript, but with few notes.]</bibl>
+          <bibl><hi rend="italic">Morte Arthure</hi>. Ed. Erik Björkman. Alt- und mittelenglische
+            Texte, 9. Heidelberg: Carl Winters and New York: G. E Stechert and Company, 1915.
+            [Heavily emended, often to improve rhythm or alliteration; excellent notes and
+            glossary.]</bibl>
+          <bibl><hi rend="italic">The Alliterative Morte Arthure: A Critical Edition</hi>. Ed.
+            Valerie Krishna. New York: Burt Franklin, 1976. [An excellent conservative edition with
+            full documentation and notes.]</bibl>
+          <bibl><hi rend="italic">Morte Arthure: A Critical Edition</hi>. Ed. Mary Hamel. Garland
+            Medieval Texts, 9. New York and London: Garland, 1984. [Full apparatus; uses Winchester
+            manuscript of Malory to elucidate the text of the alliterative poem.]</bibl>
+        </listBibl>
+        <p style="heading2">Criticism</p>
+        <listBibl>
+          <bibl>Benson, Larry D. “The Alliterative <hi rend="italic">Morte Arthure</hi> and Medieval
+            Tragedy.” <hi rend="italic">Tennessee Studies in Literature</hi> 11 (1966), 75–87.
+            [Argues that the conflict is between two goods and that Arthur’s fall is the consequence
+            of the heroic system that comes into conflict with Christian ideals.]</bibl>
+          <bibl>Eadie, J. “The Alliterative <hi rend="italic">Morte Arthure</hi>: Structure and
+            Meaning.” <hi rend="italic">English Studies</hi> 63 (1982), 1–12.</bibl>
+          <bibl>Göller, Karl Heinz, ed. <hi rend="italic">The Alliterative Morte Arthure: A
+              Reassessment of the Poem</hi>. Arthurian Studies, 2. Cambridge: D. S. Brewer, 1981.
+            [Eleven essays on various aspects of the poem.]</bibl>
+          <bibl>Hamel, Mary. “Adventure as Structure in the Alliterative <hi rend="italic">Morte
+              Arthure</hi>.” <hi rend="italic">Arthurian Interpretations</hi> 3 (1988),
+            37–48.</bibl>
+          <bibl>Jember, Gregory K. “Tone as Meaning in the <hi rend="italic">Morte Arthure</hi>.”
+              <hi rend="italic">Studies in Medieval English Language and Literature</hi> 2 (1987),
+            95–100.</bibl>
+          <bibl>Keiser, George R. “The Theme of Justice in the Alliterative <hi rend="italic">Morte
+              Arthure</hi>.” <hi rend="italic">Annuale Medievale</hi> 16 (1975), 94–109.</bibl>
+          <bibl>Kennedy, Edward Donald. “Generic Intertextuality in the English Alliterative <hi
+              rend="italic">Morte Arthure</hi>: The Italian Connection.” In <hi rend="italic">Text
+              and Intertext in Medieval Arthurian Literature</hi>. Ed. Norris J. Lacy. New York:
+            Garland, 1996. Pp. 41–56.</bibl>
+          <bibl>Lumiansky, Robert M. “The Alliterative <hi rend="italic">Morte Arthure</hi>, the
+            Concept of Medieval Tragedy, and the Cardinal Virtue Fortitude.” In <hi rend="italic"
+              >Medieval and Renaissance Studies</hi>, ed. John M. Headley (Chapel Hill: University
+            of North Carolina Press, 1968), pp. 95–118. [Diverges from Matthews and Benson to see
+            the poem as an “exemplum” of fortitude.]</bibl>
+          <bibl>Matthews, William. <hi rend="italic">The Tragedy of Arthur</hi>. Berkeley and Los
+            Angeles: University of California Press, 1960. [Still the only comprehensive,
+            full-length study of the poem.]</bibl>
+          <bibl>Peck, Russell A. “Willfulness and Wonders: Boethian Tragedy in the Alliterative <hi
+              rend="italic">Morte Arthure</hi>.” In Bernard S. Levy and Paul E. Szarmach, eds., <hi
+              rend="italic">The Alliterative Tradition in the Fourteenth Century</hi> (Kent: Kent
+            State University Press, 1981), pp. 153–82. [Examines geometric structure of the plot
+            whereby the second half of the poem, devoted to Arthur’s willful decline, mirrors in
+            reverse the first half on his good kingship.]</bibl>
+          <bibl>Westover, Jeff. “Arthur’s End: The King’s Emasculation in the Alliterative <hi
+              rend="italic">Morte Arthure</hi>.” <hi rend="italic">Chaucer Review</hi> 32 (1998),
+            310–24.</bibl>
+        </listBibl>
+      </div>
+    </body>
+  </text>
+</TEI>
